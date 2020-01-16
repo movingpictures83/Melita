@@ -1,0 +1,3 @@
+RDP	DBStat/rdp_download_9175seqs.gen	
+Silva	DBStat/nogap.bacteria.fasta
+HMDP	DBStat/hmpd16SOne.gbk

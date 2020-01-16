@@ -1,0 +1,26 @@
+Melita Pipeline: DBStat
+Usage: java DBStat <inputfile>
+
+Description: A pipeline that outputs statistics on database files.
+At the moment it takes one RDP file, one Silva file, and one HMDP file.
+It can easily be fixed to accept one of the three, that is future work.
+
+Statistics output:
+Sequence counts
+Number of unique sequences
+Number of unique genera
+Number of unique speices
+Sequences that map to one distinguishing taxa
+
+In addition it will output the genera and species that map
+to multiple sequence identifiers to files, with the following format:
+<Database>_multSeqIDPer<Genus/Specie><Number of sequence identifiers>.txt
+
+<inputfile> is a tab-delimited textfile of keyword-value pairs.  Keywords (all required)
+include:
+
+KEYWORD		DESCRIPTION
+rdpfile		RDP database file
+silvafile	Silva database file
+hmdpfile	HMDP database file
+
