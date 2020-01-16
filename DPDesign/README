@@ -1,0 +1,17 @@
+Melita Pipeline: DPDesign
+Usage: java DPDesign <inputfile>
+
+Description: A pipeline that takes as input a database of sequences from RDP. 
+
+It produces as output a set of possible forward and reverse primers for these
+sequences, and their counts to the console.
+
+Primers are output as two .txt files:
+*list.txt: Each possible primer on its own separate line.
+*dsgnFlow.txt: The flow of computation for each primer, including its degeneracy score.
+
+Also included in these filenames are minimum sequence count,
+maximum degeneracy score, and minimum C/G nucletoide count (these are the strong bases
+that improve PCR efficiency).  All of these can be changed (see Core/CONSTANT.java).
+Future goal can be to make these input parameters.
+
