@@ -1,0 +1,1949 @@
+>1
+S000405733|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Nocardiaceae;Nocardia;Nocardia neocaledoniensis
+>1
+S000128268|Bacteria;"Proteobacteria";Gammaproteobacteria;Thiotrichales;Francisellaceae;Francisella;Francisella tularensis
+>1
+S001098930|Bacteria;"Proteobacteria";Deltaproteobacteria;Desulfovibrionales;Desulfovibrionaceae;Desulfovibrio;Desulfovibrio africanus
+>1
+S000428473|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Streptomycineae;Streptomycetaceae;Streptacidiphilus;Streptacidiphilus albus
+>1
+S000004324|Bacteria;"Proteobacteria";Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas oryzihabitans
+>1
+S000414229|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Bifidobacteriales;Bifidobacteriaceae;Parascardovia;Parascardovia denticolens
+>1
+S000437446|Bacteria;"Proteobacteria";Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Rhizobium;Rhizobium etli
+>1
+S000126126|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Nocardiaceae;Rhodococcus;Rhodococcus equi
+>1
+S000529460|Bacteria;Firmicutes;Bacilli;Bacillales;Alicyclobacillaceae;Alicyclobacillus;Alicyclobacillus tolerans
+>1
+S000253171|Bacteria;"Proteobacteria";Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Psychrobacter;Psychrobacter frigidicola
+>1
+S000021401|Bacteria;"Proteobacteria";Gammaproteobacteria;Oceanospirillales;Halomonadaceae;Zymobacter;Zymobacter palmae
+>1
+S001746549|Bacteria;"Proteobacteria";Alphaproteobacteria;Rhodospirillales;Acetobacteraceae;Roseomonas;Roseomonas pecuniae
+>1
+S000018514|Bacteria;Firmicutes;Clostridia;Clostridiales;Peptococcaceae1;Desulfosporosinus;Desulfosporosinus hippei
+>1
+S000412194|Bacteria;"Proteobacteria";Gammaproteobacteria;"Enterobacteriales";Enterobacteriaceae;Pantoea;Pantoea allii
+>2
+S001020324|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Barbarea verna
+S001020327|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Barbarea verna
+>1
+S000006150|Bacteria;"Proteobacteria";Deltaproteobacteria;Desulfovibrionales;Desulfovibrionaceae;Desulfovibrio;Desulfovibrio desulfuricans
+>1
+S001169258|Bacteria;"Proteobacteria";Betaproteobacteria;Burkholderiales;Comamonadaceae;Delftia;Delftia lacustris
+>1
+S000260980|Bacteria;"Fusobacteria";"Fusobacteria";"Fusobacteriales";"Fusobacteriaceae";ClostridiumXIX;Clostridium rectum
+>2
+S001020393|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Daucus carota
+S001020396|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Daucus carota
+>12
+S000540362|Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiales_IncertaeSedisXVIII;Symbiobacterium;Symbiobacterium thermophilum
+S000540360|Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiales_IncertaeSedisXVIII;Symbiobacterium;Symbiobacterium thermophilum
+S000540357|Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiales_IncertaeSedisXVIII;Symbiobacterium;Symbiobacterium thermophilum
+S000540351|Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiales_IncertaeSedisXVIII;Symbiobacterium;Symbiobacterium thermophilum
+S000540353|Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiales_IncertaeSedisXVIII;Symbiobacterium;Symbiobacterium thermophilum
+S000540355|Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiales_IncertaeSedisXVIII;Symbiobacterium;Symbiobacterium thermophilum
+S002290522|Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiales_IncertaeSedisXVIII;Symbiobacterium;Symbiobacterium thermophilum
+S002289913|Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiales_IncertaeSedisXVIII;Symbiobacterium;Symbiobacterium thermophilum
+S002287466|Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiales_IncertaeSedisXVIII;Symbiobacterium;Symbiobacterium thermophilum
+S002290142|Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiales_IncertaeSedisXVIII;Symbiobacterium;Symbiobacterium thermophilum
+S002290362|Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiales_IncertaeSedisXVIII;Symbiobacterium;Symbiobacterium thermophilum
+S002291075|Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiales_IncertaeSedisXVIII;Symbiobacterium;Symbiobacterium thermophilum
+>1
+S000505498|Bacteria;"Proteobacteria";Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Rhizobium;Rhizobium lusitanum
+>1
+S000514601|Bacteria;"Proteobacteria";Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas otitidis
+>1
+S000394054|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Nocardiaceae;Nocardia;Nocardia veterana
+>1
+S000613927|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Micrococcineae;Bogoriellaceae;Georgenia;Georgenia ruanii
+>1
+S000020692|Bacteria;"Proteobacteria";Alphaproteobacteria;Rhodospirillales;Acetobacteraceae;Gluconacetobacter;Gluconacetobacter liquefaciens
+>2
+S000143918|Bacteria;"Proteobacteria";Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas lurida
+S000145154|Bacteria;"Proteobacteria";Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas poae
+>1
+S002153941|Bacteria;"Proteobacteria";Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Moraxella;Moraxella atlantae
+>1
+S001014354|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Corynebacteriaceae;Corynebacterium;Corynebacterium hansenii
+>1
+S000414338|Bacteria;Firmicutes;Clostridia;Thermoanaerobacterales;Thermoanaerobacteraceae;Thermoanaerobacter;Thermoanaerobacter kivui
+>1
+S000254877|Bacteria;"Proteobacteria";Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Psychrobacter;Psychrobacter urativorans
+>1
+S000245823|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Micromonosporineae;Micromonosporaceae;Asanoa;Asanoa ishikariensis
+>2
+S000641851|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Amborella trichopoda
+S000641848|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Amborella trichopoda
+>1
+S000013942|Bacteria;Firmicutes;Bacilli;Bacillales;Staphylococcaceae;Salinicoccus;Salinicoccus roseus
+>2
+S001020318|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Angiopteris evecta
+S001020315|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Angiopteris evecta
+>1
+S001550745|Bacteria;"Proteobacteria";Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingopyxis;Sphingopyxis bauzanensis
+>2
+S000641823|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Lotus japonicus
+S000641826|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Lotus japonicus
+>1
+S000427557|Bacteria;"Proteobacteria";Alphaproteobacteria;Sphingomonadales;Erythrobacteraceae;Porphyrobacter;Porphyrobacter sanguineus
+>1
+S000941812|Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Pediococcus;Pediococcus lolii
+>1
+S000891929|Bacteria;"Proteobacteria";Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingomonas;Sphingomonas sanxanigenens
+>2
+S000130015|Bacteria;"Proteobacteria";Alphaproteobacteria;Rhodospirillales;Acetobacteraceae;Gluconacetobacter;Gluconacetobacter entanii
+S000728860|Bacteria;"Proteobacteria";Alphaproteobacteria;Rhodospirillales;Acetobacteraceae;Gluconacetobacter;Gluconacetobacter hansenii
+>1
+S000011357|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Pseudonocardineae;Pseudonocardiaceae;Pseudonocardia;Pseudonocardia kongjuensis
+>1
+S000394044|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Nocardiaceae;Nocardia;Nocardia vaccinii
+>1
+S000015422|Bacteria;"Proteobacteria";Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia;Burkholderia glathei
+>1
+S000643547|Bacteria;"Bacteroidetes";"Sphingobacteria";"Sphingobacteriales";Chitinophagaceae;Terrimonas;Terrimonas ferruginea
+>1
+S000540660|Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae1;Geobacillus;Geobacillus thermoglucosidasius
+>1
+S000768921|Bacteria;"Proteobacteria";Alphaproteobacteria;Rhizobiales;Methylobacteriaceae;Methylobacterium;Methylobacterium salsuginis
+>1
+S000367196|Bacteria;"Proteobacteria";Deltaproteobacteria;Myxococcales;Cystobacterineae;Myxococcaceae;Corallococcus;Corallococcus coralloides
+>1
+S000008216|Bacteria;"Proteobacteria";Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia;Burkholderia phenazinium
+>4
+S000674966|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Helianthus annuus
+S000674963|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Helianthus annuus
+S000609085|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Lactuca sativa
+S000609088|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Lactuca sativa
+>1
+S000003179|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Streptomycineae;Streptomycetaceae;Streptomyces;Streptomyces thermocoprophilus
+>1
+S000544657|Bacteria;"Proteobacteria";Gammaproteobacteria;"Enterobacteriales";Enterobacteriaceae;Providencia;Providencia vermicola
+>1
+S000391399|Bacteria;"Proteobacteria";Gammaproteobacteria;Alteromonadales;Pseudoalteromonadaceae;Pseudoalteromonas;Pseudoalteromonas issachenkonii
+>1
+S000434394|Bacteria;"Proteobacteria";Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Paracoccus;Paracoccus solventivorans
+>1
+S000436945|Bacteria;Firmicutes;Clostridia;Clostridiales;Peptococcaceae2;Desulfotomaculum;Desulfotomaculum australicum
+>1
+S000414347|Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiales_IncertaeSedisIII;Thermoanaerobacterium;Thermoanaerobacterium saccharolyticum
+>1
+S000381283|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Streptomycineae;Streptomycetaceae;Streptomyces;Streptomyces bikiniensis
+>6
+S002290520|Bacteria;"Proteobacteria";Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Novosphingobium;Sphingomonas aromaticivorans
+S002288502|Bacteria;"Proteobacteria";Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Novosphingobium;Sphingomonas aromaticivorans
+S000644989|Bacteria;"Proteobacteria";Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Novosphingobium;Sphingomonas aromaticivorans
+S000644991|Bacteria;"Proteobacteria";Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Novosphingobium;Sphingomonas aromaticivorans
+S000644993|Bacteria;"Proteobacteria";Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Novosphingobium;Sphingomonas aromaticivorans
+S002290325|Bacteria;"Proteobacteria";Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Novosphingobium;Sphingomonas aromaticivorans
+>1
+S000431412|Bacteria;"Proteobacteria";Deltaproteobacteria;Desulfovibrionales;Desulfohalobiaceae;Desulfonauticus;Desulfonauticus submarinus
+>1
+S000390111|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Streptosporangineae;Nocardiopsaceae;Nocardiopsis;Nocardiopsis xinjiangensis
+>1
+S001171510|Bacteria;"Proteobacteria";Betaproteobacteria;Burkholderiales;Burkholderiaceae;Chitinimonas;Chitinimonas taiwanensis
+>1
+S000010427|Bacteria;"Proteobacteria";Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas aeruginosa
+>8
+S002289619|Bacteria;Firmicutes;Bacilli;Lactobacillales;Leuconostocaceae;Leuconostoc;Leuconostoc mesenteroides
+S002288561|Bacteria;Firmicutes;Bacilli;Lactobacillales;Leuconostocaceae;Leuconostoc;Leuconostoc mesenteroides
+S000735375|Bacteria;Firmicutes;Bacilli;Lactobacillales;Leuconostocaceae;Leuconostoc;Leuconostoc mesenteroides
+S000735377|Bacteria;Firmicutes;Bacilli;Lactobacillales;Leuconostocaceae;Leuconostoc;Leuconostoc mesenteroides
+S000735370|Bacteria;Firmicutes;Bacilli;Lactobacillales;Leuconostocaceae;Leuconostoc;Leuconostoc mesenteroides
+S000735372|Bacteria;Firmicutes;Bacilli;Lactobacillales;Leuconostocaceae;Leuconostoc;Leuconostoc mesenteroides
+S002289454|Bacteria;Firmicutes;Bacilli;Lactobacillales;Leuconostocaceae;Leuconostoc;Leuconostoc mesenteroides
+S002290149|Bacteria;Firmicutes;Bacilli;Lactobacillales;Leuconostocaceae;Leuconostoc;Leuconostoc mesenteroides
+>14
+S002290488|Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae1;Bacillus;Bacillus licheniformis
+S002288985|Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae1;Bacillus;Bacillus licheniformis
+S002287710|Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae1;Bacillus;Bacillus licheniformis
+S002289995|Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae1;Bacillus;Bacillus licheniformis
+S000858649|Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae1;Bacillus;Bacillus licheniformis
+S000858647|Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae1;Bacillus;Bacillus licheniformis
+S000858645|Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae1;Bacillus;Bacillus licheniformis
+S000858651|Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae1;Bacillus;Bacillus licheniformis
+S000858653|Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae1;Bacillus;Bacillus licheniformis
+S000858655|Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae1;Bacillus;Bacillus licheniformis
+S000858658|Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae1;Bacillus;Bacillus licheniformis
+S002290051|Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae1;Bacillus;Bacillus licheniformis
+S002291268|Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae1;Bacillus;Bacillus licheniformis
+S002289077|Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae1;Bacillus;Bacillus licheniformis
+>1
+S000322868|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Nocardiaceae;Rhodococcus;Rhodococcus aetherivorans
+>2
+S001020502|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Piper cenocladum
+S001020505|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Piper cenocladum
+>1
+S000446569|Bacteria;"Proteobacteria";Alphaproteobacteria;Rhizobiales;Brucellaceae;Ochrobactrum;Ochrobactrum grignonense
+>1
+S000544665|Bacteria;"Proteobacteria";Alphaproteobacteria;Rhizobiales;Brucellaceae;Ochrobactrum;Ochrobactrum oryzae
+>1
+S000995322|Bacteria;"Proteobacteria";Deltaproteobacteria;Desulfovibrionales;Desulfovibrionaceae;Desulfovibrio;Desulfovibrio tunisiensis
+>1
+S000008217|Bacteria;"Proteobacteria";Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia;Burkholderia graminis
+>2
+S000396323|Bacteria;Firmicutes;Bacilli;Bacillales;Staphylococcaceae;Macrococcus;Macrococcus brunensis
+S000009655|Bacteria;Firmicutes;Bacilli;Bacillales;Staphylococcaceae;Macrococcus;Macrococcus carouselicus
+>1
+S000013965|Bacteria;"Proteobacteria";Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas graminis
+>1
+S000014356|Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Pediococcus;Pediococcus acidilactici
+>1
+S002288613|Bacteria;"Proteobacteria";Alphaproteobacteria;Caulobacterales;Hyphomonadaceae;Hyphomonas;Hyphomonas neptunium
+>1
+S000008928|Bacteria;"Proteobacteria";Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas oleovorans
+>3
+S000004852|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Streptomycineae;Streptomycetaceae;Streptomyces;Streptomyces cangkringensis
+S000022378|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Streptomycineae;Streptomycetaceae;Streptomyces;Streptomyces javensis
+S000004390|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Streptomycineae;Streptomycetaceae;Streptomyces;Streptomyces griseiniger
+>1
+S000013211|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Mycobacteriaceae;Mycobacterium;Mycobacterium shimoidei
+>1
+S000386800|Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;Lactobacillus manihotivorans
+>1
+S001169927|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Corynebacteriaceae;Corynebacterium;Corynebacterium doosanense
+>1
+S000381408|Bacteria;"Proteobacteria";Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingomonas;Sphingomonas trueperi
+>1
+S000008203|Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus;Streptococcus gallolyticus
+>1
+S001154007|Bacteria;"Proteobacteria";Betaproteobacteria;Burkholderiales;Comamonadaceae;Pseudorhodoferax;Pseudorhodoferax soli
+>1
+S000335627|Bacteria;"Proteobacteria";Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Novosphingobium;Novosphingobium naphthalenivorans
+>1
+S000394046|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Nocardiaceae;Nocardia;Nocardia transvalensis
+>1
+S000394043|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Nocardiaceae;Nocardia;Nocardia uniformis
+>1
+S000334546|Bacteria;"Synergistetes";Synergistia;Synergistales;Synergistaceae;Anaerobaculum;Anaerobaculum thermoterrenum
+>1
+S000381465|Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae2;Virgibacillus;Virgibacillus salexigens
+>1
+S000003178|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Streptomycineae;Streptomycetaceae;Streptomyces;Streptomyces albiflaviniger
+>1
+S000012736|Bacteria;"Proteobacteria";Gammaproteobacteria;Pasteurellales;Pasteurellaceae;Lonepinella;Lonepinella koalarum
+>1
+S000245821|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Micromonosporineae;Micromonosporaceae;Actinoplanes;Actinoplanes durhamensis
+>1
+S000633542|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Pseudonocardineae;Pseudonocardiaceae;Amycolatopsis;Amycolatopsis minnesotensis
+>1
+S000254867|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Streptosporangineae;Thermomonosporaceae;Actinomadura;Actinomadura hibisca
+>1
+S000515943|Bacteria;"Proteobacteria";Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia;Burkholderia silvatlantica
+>1
+S000368133|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Propionibacterineae;Nocardioidaceae;Kribbella;Kribbella jejuensis
+>1
+S000001003|Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;Lactobacillus fructivorans
+>1
+S000434396|Bacteria;"Proteobacteria";Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Paracoccus;Paracoccus alcaliphilus
+>1
+S000368130|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Propionibacterineae;Nocardioidaceae;Kribbella;Kribbella flavida
+>1
+S000439340|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Streptomycineae;Streptomycetaceae;Streptomyces;Streptomyces scabiei
+>1
+S000433949|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Micrococcineae;Microbacteriaceae;Cryobacterium;Cryobacterium psychrophilum
+>1
+S000386893|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Pseudonocardineae;Pseudonocardiaceae;Saccharopolyspora;Saccharopolyspora taberi
+>1
+S000457157|Bacteria;"Proteobacteria";Alphaproteobacteria;Rhodospirillales;Acetobacteraceae;Acetobacter;Acetobacter oeni
+>1
+S001349884|Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;Lactobacillus sunkii
+>1
+S001294722|Bacteria;"Deinococcus-Thermus";Deinococci;Thermales;Thermaceae;Meiothermus;Meiothermus rufus
+>1
+S000414555|Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae1;Bacillus;Bacillus thermoamylovorans
+>1
+S000391769|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Streptomycineae;Streptomycetaceae;Streptomyces;Streptomyces thermospinosisporus
+>1
+S000438346|Bacteria;"Chlamydiae";Chlamydiae;Chlamydiales;Simkaniaceae;Simkania;Simkania negevensis
+>5
+S002290518|Bacteria;"Proteobacteria";Deltaproteobacteria;Desulfovibrionales;Desulfovibrionaceae;Desulfovibrio;Desulfovibrio salexigens
+S002289534|Bacteria;"Proteobacteria";Deltaproteobacteria;Desulfovibrionales;Desulfovibrionaceae;Desulfovibrio;Desulfovibrio salexigens
+S002288763|Bacteria;"Proteobacteria";Deltaproteobacteria;Desulfovibrionales;Desulfovibrionaceae;Desulfovibrio;Desulfovibrio salexigens
+S002290026|Bacteria;"Proteobacteria";Deltaproteobacteria;Desulfovibrionales;Desulfovibrionaceae;Desulfovibrio;Desulfovibrio salexigens
+S002288108|Bacteria;"Proteobacteria";Deltaproteobacteria;Desulfovibrionales;Desulfovibrionaceae;Desulfovibrio;Desulfovibrio salexigens
+>1
+S000019101|Bacteria;"Bacteroidetes";"Sphingobacteria";"Sphingobacteriales";Cytophagaceae;Hymenobacter;Hymenobacter chitinivorans
+>1
+S000629152|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Mycobacteriaceae;Mycobacterium;Mycobacterium colombiense
+>1
+S000351464|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Micrococcineae;Microbacteriaceae;Curtobacterium;Curtobacterium herbarum
+>1
+S000002852|Bacteria;"Proteobacteria";Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas psychrophila
+>1
+S000394037|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Nocardiaceae;Nocardia;Nocardia brasiliensis
+>1
+S001576037|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Micrococcineae;Micrococcaceae;Arthrobacter;Arthrobacter alpinus
+>1
+S000538599|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Streptomycineae;Streptomycetaceae;Streptomyces;Streptomyces durmitorensis
+>1
+S000368131|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Propionibacterineae;Nocardioidaceae;Kribbella;Kribbella sandramycini
+>1
+S001550746|Bacteria;"Bacteroidetes";"Sphingobacteria";"Sphingobacteriales";Cytophagaceae;Hymenobacter;Hymenobacter psychrophilus
+>1
+S000007949|Bacteria;"Proteobacteria";Gammaproteobacteria;Oceanospirillales;Halomonadaceae;Halomonas;Halomonas variabilis
+>1
+S000006193|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Micrococcineae;Dermabacteraceae;Brachybacterium;Brachybacterium tyrofermentans
+>1
+S000428928|Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus;Streptococcus anginosus
+>1
+S000388643|Bacteria;"Proteobacteria";Betaproteobacteria;Burkholderiales;Burkholderiales_incertae_sedis;Methylibium;Methylibium petroleiphilum
+>14
+S002289858|Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae1;Clostridiumsensustricto;Clostridium perfringens
+S002288187|Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae1;Clostridiumsensustricto;Clostridium perfringens
+S002289749|Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae1;Clostridiumsensustricto;Clostridium perfringens
+S000721516|Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae1;Clostridiumsensustricto;Clostridium perfringens
+S000721521|Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae1;Clostridiumsensustricto;Clostridium perfringens
+S000721523|Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae1;Clostridiumsensustricto;Clostridium perfringens
+S000721508|Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae1;Clostridiumsensustricto;Clostridium perfringens
+S000721510|Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae1;Clostridiumsensustricto;Clostridium perfringens
+S000721512|Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae1;Clostridiumsensustricto;Clostridium perfringens
+S000721514|Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae1;Clostridiumsensustricto;Clostridium perfringens
+S002287549|Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae1;Clostridiumsensustricto;Clostridium perfringens
+S002287465|Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae1;Clostridiumsensustricto;Clostridium perfringens
+S002288059|Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae1;Clostridiumsensustricto;Clostridium perfringens
+S002290435|Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae1;Clostridiumsensustricto;Clostridium perfringens
+>1
+S000018874|Bacteria;"Synergistetes";Synergistia;Synergistales;Synergistaceae;Anaerobaculum;Anaerobaculum mobile
+>1
+S000396322|Bacteria;Firmicutes;Bacilli;Bacillales;Staphylococcaceae;Macrococcus;Macrococcus hajekii
+>1
+S001168624|Bacteria;"Proteobacteria";Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingomonas;Sphingomonas japonica
+>1
+S000599485|Bacteria;"Proteobacteria";Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingobium;Sphingobium fuliginis
+>1
+S000018565|Bacteria;"Proteobacteria";Betaproteobacteria;Rhodocyclales;Rhodocyclaceae;Ferribacterium;Ferribacterium limneticum
+>4
+S002289489|Bacteria;Firmicutes;Clostridia;Thermoanaerobacterales;Thermoanaerobacteraceae;Carboxydothermus;Carboxydothermus hydrogenoformans
+S002290894|Bacteria;Firmicutes;Clostridia;Thermoanaerobacterales;Thermoanaerobacteraceae;Carboxydothermus;Carboxydothermus hydrogenoformans
+S002287050|Bacteria;Firmicutes;Clostridia;Thermoanaerobacterales;Thermoanaerobacteraceae;Carboxydothermus;Carboxydothermus hydrogenoformans
+S002290132|Bacteria;Firmicutes;Clostridia;Thermoanaerobacterales;Thermoanaerobacteraceae;Carboxydothermus;Carboxydothermus hydrogenoformans
+>3
+S000539928|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Nocardiaceae;Williamsia;Williamsia deligens
+S000392700|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Nocardiaceae;Gordonia;Gordonia sinesedis
+S000711434|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Nocardiaceae;Williamsia;Williamsia serinedens
+>1
+S000458739|Bacteria;"Proteobacteria";Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Novosphingobium;Novosphingobium pentaromativorans
+>2
+S000539710|Bacteria;"Thermotogae";Thermotogae;Thermotogales;Thermotogaceae;Thermotoga;Thermotoga petrophila
+S000539708|Bacteria;"Thermotogae";Thermotogae;Thermotogales;Thermotogaceae;Thermotoga;Thermotoga naphthophila
+>1
+S000461693|Bacteria;"Proteobacteria";Gammaproteobacteria;Alteromonadales;Pseudoalteromonadaceae;Pseudoalteromonas;Pseudoalteromonas aliena
+>1
+S000414340|Bacteria;Firmicutes;Clostridia;Thermoanaerobacterales;Thermoanaerobacteraceae;Thermoanaerobacter;Thermoanaerobacter ethanolicus
+>1
+S000392042|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Streptomycineae;Streptomycetaceae;Streptomyces;Streptomyces yunnanensis
+>1
+S000130993|Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae2;Virgibacillus;Virgibacillus marismortui
+>1
+S000440238|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Micrococcineae;Jonesiaceae;Jonesia;Jonesia quinghaiensis
+>1
+S001576427|Bacteria;"Proteobacteria";Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingomonas;Sphingomonas glacialis
+>1
+S000436057|Bacteria;"Thermotogae";Thermotogae;Thermotogales;Thermotogaceae;Thermotoga;Thermotoga maritima
+>1
+S000392108|Bacteria;Firmicutes;Bacilli;Bacillales;Paenibacillaceae1;Paenibacillus;Paenibacillus naphthalenovorans
+>1
+S000393209|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Micrococcineae;Promicromonosporaceae;Xylanimonas;Xylanimonas cellulosilytica
+>1
+S000001334|Bacteria;"Proteobacteria";Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas mucidolens
+>1
+S000246585|Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;Lactobacillus gallinarum
+>1
+S000626936|Bacteria;"Proteobacteria";Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas nitroreducens
+>1
+S000390346|Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;ClostridiumIII;Clostridium stercorarium
+>1
+S000399544|Bacteria;"Proteobacteria";Gammaproteobacteria;Alteromonadales;Shewanellaceae;Shewanella;Shewanella waksmanii
+>1
+S001044190|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Pseudonocardineae;Pseudonocardiaceae;Saccharopolyspora;Saccharopolyspora rosea
+>1
+S000008515|Bacteria;Firmicutes;Bacilli;Bacillales;Staphylococcaceae;Macrococcus;Macrococcus bovicus
+>1
+S000618645|Bacteria;"Proteobacteria";Gammaproteobacteria;Thiotrichales;Francisellaceae;Francisella;Francisella philomiragia
+>7
+S000624658|Bacteria;"Proteobacteria";Gammaproteobacteria;Oceanospirillales;Hahellaceae;Hahella;Hahella chejuensis
+S000624655|Bacteria;"Proteobacteria";Gammaproteobacteria;Oceanospirillales;Hahellaceae;Hahella;Hahella chejuensis
+S000624653|Bacteria;"Proteobacteria";Gammaproteobacteria;Oceanospirillales;Hahellaceae;Hahella;Hahella chejuensis
+S000624651|Bacteria;"Proteobacteria";Gammaproteobacteria;Oceanospirillales;Hahellaceae;Hahella;Hahella chejuensis
+S000624660|Bacteria;"Proteobacteria";Gammaproteobacteria;Oceanospirillales;Hahellaceae;Hahella;Hahella chejuensis
+S002287553|Bacteria;"Proteobacteria";Gammaproteobacteria;Oceanospirillales;Hahellaceae;Hahella;Hahella chejuensis
+S002289276|Bacteria;"Proteobacteria";Gammaproteobacteria;Oceanospirillales;Hahellaceae;Hahella;Hahella chejuensis
+>1
+S000430759|Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae1;Anoxybacillus;Anoxybacillus kamchatkensis
+>1
+S000414130|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Bifidobacteriales;Bifidobacteriaceae;Bifidobacterium;Bifidobacterium ruminantium
+>1
+S000134977|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Pseudonocardineae;Pseudonocardiaceae;Amycolatopsis;Amycolatopsis plumensis
+>1
+S000438735|Bacteria;Firmicutes;Clostridia;Clostridiales;Peptococcaceae2;Desulfotomaculum;Desulfotomaculum halophilum
+>1
+S000515947|Bacteria;Firmicutes;Clostridia;Halanaerobiales;Halanaerobiaceae;Halarsenatibacter;Halarsenatibacter silvermanii
+>1
+S000942308|Bacteria;"Proteobacteria";Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Rhizobium;Rhizobium selenitireducens
+>1
+S000504628|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Jiangellineae;Jiangellaceae;Jiangella;Jiangella gansuensis
+>1
+S002304633|Bacteria;"Proteobacteria";Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Gemmobacter;Gemmobacter aquatilis
+>1
+S000003151|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Pseudonocardineae;Pseudonocardiaceae;Pseudonocardia;Pseudonocardia halophobica
+>1
+S001241594|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Micrococcineae;Microbacteriaceae;Agrococcus;Agrococcus terreus
+>2
+S002290839|Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;Lactobacillus delbrueckii
+S000690649|Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;Lactobacillus delbrueckii
+>3
+S002290584|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Pseudonocardineae;Pseudonocardiaceae;Saccharopolyspora;Saccharopolyspora erythraea
+S002290562|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Pseudonocardineae;Pseudonocardiaceae;Saccharopolyspora;Saccharopolyspora erythraea
+S002288001|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Pseudonocardineae;Pseudonocardiaceae;Saccharopolyspora;Saccharopolyspora erythraea
+>1
+S000246371|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Micromonosporineae;Micromonosporaceae;Actinoplanes;Actinoplanes ferrugineus
+>8
+S000641831|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Arabidopsis thaliana
+S000641834|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Arabidopsis thaliana
+S001020302|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Aethionema cordifolium
+S001020323|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Arabis hirsuta
+S001020320|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Arabis hirsuta
+S001020299|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Aethionema cordifolium
+S001020401|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Draba nemorosa
+S001020404|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Draba nemorosa
+>1
+S000263441|Bacteria;"Proteobacteria";Betaproteobacteria;Burkholderiales;Comamonadaceae;Ottowia;Ottowia thiooxydans
+>1
+S000540099|Bacteria;"Proteobacteria";Deltaproteobacteria;Myxococcales;Cystobacterineae;Cystobacteraceae;Stigmatella;Stigmatella erecta
+>1
+S000538409|Bacteria;Firmicutes;Bacilli;Bacillales;Listeriaceae;Listeria;Listeria welshimeri
+>1
+S000439351|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Streptomycineae;Streptomycetaceae;Streptomyces;Streptomyces tendae
+>1
+S000265215|Bacteria;"Proteobacteria";Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Rhizobium;Rhizobium pisi
+>1
+S000385187|Bacteria;"Proteobacteria";Alphaproteobacteria;Rhizobiales;Bradyrhizobiaceae;Rhodopseudomonas;Rhodopseudomonas rhenobacensis
+>1
+S000469185|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Micrococcineae;Microbacteriaceae;Microbacterium;Microbacterium kitamiense
+>1
+S000140807|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Pseudonocardineae;Pseudonocardiaceae;Amycolatopsis;Amycolatopsis mediterranei
+>1
+S000003950|Bacteria;"Proteobacteria";Betaproteobacteria;Neisseriales;Neisseriaceae;Neisseria;Neisseria gonorrhoeae
+>1
+S000721978|Bacteria;"Proteobacteria";Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;Azospirillum;Azospirillum zeae
+>1
+S000648491|Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae2;Alkalibacillus;Alkalibacillus halophilus
+>1
+S001418439|Bacteria;"Proteobacteria";Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Luteimonas;Luteimonas terricola
+>1
+S001187305|Bacteria;"Proteobacteria";Betaproteobacteria;Burkholderiales;Burkholderiaceae;Polynucleobacter;Polynucleobacter cosmopolitanus
+>1
+S001171508|Bacteria;"Proteobacteria";Betaproteobacteria;Burkholderiales;Burkholderiaceae;Cupriavidus;Cupriavidus taiwanensis
+>2
+S000394034|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Nocardiaceae;Nocardia;Nocardia carnea
+S000394018|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Nocardiaceae;Nocardia;Nocardia asteroides
+>1
+S000388244|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Micromonosporineae;Micromonosporaceae;Micromonospora;Micromonospora matsumotoense
+>1
+S000261426|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Streptomycineae;Streptomycetaceae;Streptomyces;Streptomyces griseus
+>1
+S000351463|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Micrococcineae;Microbacteriaceae;Agreia;Agreia pratensis
+>1
+S000128467|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Corynebacteriaceae;Corynebacterium;Corynebacterium tuberculostearicum
+>1
+S000391375|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Corynebacteriaceae;Corynebacterium;Corynebacterium glutamicum
+>1
+S000008929|Bacteria;"Proteobacteria";Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas taetrolens
+>1
+S000085577|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Streptomycineae;Streptomycetaceae;Streptomyces;Streptomyces flavogriseus
+>1
+S000485126|Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae1;Bacillus;Bacillus fortis
+>1
+S000128813|Bacteria;"Proteobacteria";Gammaproteobacteria;Oceanospirillales;Halomonadaceae;Chromohalobacter;Chromohalobacter canadensis
+>1
+S000437948|Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae1;Clostridiumsensustricto;Clostridium septicum
+>2
+S001020506|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Platanus occidentalis
+S001020509|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Platanus occidentalis
+>1
+S000429086|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Pseudonocardineae;Pseudonocardiaceae;Actinokineospora;Actinokineospora diospyrosa
+>1
+S000414231|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Bifidobacteriales;Bifidobacteriaceae;Bifidobacterium;Bifidobacterium subtile
+>1
+S000270582|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Streptomycineae;Streptomycetaceae;Streptomyces;Streptomyces albus
+>1
+S000804609|Bacteria;"Proteobacteria";Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingobium;Sphingobium olei
+>4
+S000641072|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Gossypium hirsutum
+S000641069|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Gossypium hirsutum
+S001020409|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Gossypium barbadense
+S001020412|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Gossypium barbadense
+>1
+S000324037|Bacteria;Firmicutes;Bacilli;Bacillales;Sporolactobacillaceae;Sporolactobacillus;Sporolactobacillus nakayamae
+>1
+S000351376|Bacteria;"Proteobacteria";Alphaproteobacteria;Rhodospirillales;Acetobacteraceae;Gluconacetobacter;Gluconacetobacter saccharivorans
+>2
+S001198567|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Streptosporangineae;Nocardiopsaceae;Nocardiopsis;Nocardiopsis sinuspersici
+S001198568|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Streptosporangineae;Nocardiopsaceae;Nocardiopsis;Nocardiopsis arvandica
+>1
+S000711958|Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae1;Bacillus;Bacillus aidingensis
+>1
+S000007743|Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;ClostridiumIII;Clostridium cellulolyticum
+>5
+S002290513|Bacteria;"Proteobacteria";Gammaproteobacteria;Oceanospirillales;Halomonadaceae;Chromohalobacter;Chromohalobacter salexigens
+S002290503|Bacteria;"Proteobacteria";Gammaproteobacteria;Oceanospirillales;Halomonadaceae;Chromohalobacter;Chromohalobacter salexigens
+S002289575|Bacteria;"Proteobacteria";Gammaproteobacteria;Oceanospirillales;Halomonadaceae;Chromohalobacter;Chromohalobacter salexigens
+S002287521|Bacteria;"Proteobacteria";Gammaproteobacteria;Oceanospirillales;Halomonadaceae;Chromohalobacter;Chromohalobacter salexigens
+S002290125|Bacteria;"Proteobacteria";Gammaproteobacteria;Oceanospirillales;Halomonadaceae;Chromohalobacter;Chromohalobacter salexigens
+>3
+S000271820|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Streptomycineae;Streptomycetaceae;Streptomyces;Streptomyces catenulae
+S000270388|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Streptomycineae;Streptomycetaceae;Streptomyces;Streptomyces chrestomyceticus
+S000270786|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Streptomycineae;Streptomycetaceae;Streptomyces;Streptomyces sclerotialus
+>1
+S000389024|Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Syntrophococcus;Syntrophococcus sucromutans
+>1
+S000391922|Bacteria;"Proteobacteria";Alphaproteobacteria;Rhizobiales;Bradyrhizobiaceae;Bradyrhizobium;Bradyrhizobium denitrificans
+>1
+S000392790|Bacteria;"Proteobacteria";Deltaproteobacteria;Myxococcales;Cystobacterineae;Cystobacteraceae;Anaeromyxobacter;Anaeromyxobacter dehalogenans
+>1
+S000446298|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Pseudonocardineae;Pseudonocardiaceae;Actinosynnema;Actinosynnema mirum
+>1
+S000607409|Bacteria;"Proteobacteria";Gammaproteobacteria;Gammaproteobacteria_incertae_sedis;Sedimenticola;Sedimenticola selenatireducens
+>2
+S000388203|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Tsukamurellaceae;Tsukamurella;Tsukamurella sunchonensis
+S000368118|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Tsukamurellaceae;Tsukamurella;Tsukamurella pseudospumae
+>1
+S000437159|Bacteria;Firmicutes;Clostridia;Thermoanaerobacterales;Thermoanaerobacteraceae;Thermoanaerobacter;Thermoanaerobacter brockii
+>1
+S000127018|Bacteria;"Proteobacteria";Betaproteobacteria;Burkholderiales;Comamonadaceae;Comamonas;Comamonas nitrativorans
+>1
+S000270387|Bacteria;"Proteobacteria";Alphaproteobacteria;Rhizobiales;Bradyrhizobiaceae;Bradyrhizobium;Bradyrhizobium canariense
+>1
+S000428003|Bacteria;"Proteobacteria";Alphaproteobacteria;Rhizobiales;Phyllobacteriaceae;Mesorhizobium;Mesorhizobium tianshanense
+>1
+S000539588|Bacteria;"Proteobacteria";Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Nereida;Nereida ignava
+>1
+S000127978|Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Pediococcus;Pediococcus damnosus
+>1
+S000427693|Bacteria;"Proteobacteria";Deltaproteobacteria;Desulfobacterales;Desulfobacteraceae;Desulfocella;Desulfocella halophila
+>1
+S000002345|Bacteria;Firmicutes;Clostridia;Clostridiales;Peptococcaceae2;Desulfotomaculum;Desulfotomaculum thermobenzoicum
+>1
+S000022474|Bacteria;"Proteobacteria";Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia;Burkholderia pyrrocinia
+>1
+S000262262|Bacteria;"Tenericutes";Mollicutes;Entomoplasmatales;Spiroplasmataceae;Spiroplasma;Spiroplasma melliferum
+>1
+S000428078|Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiales_IncertaeSedisXII;Fusibacter;Fusibacter paucivorans
+>1
+S000381788|Bacteria;"Proteobacteria";Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Paracoccus;Paracoccus carotinifaciens
+>1
+S000429094|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Pseudonocardineae;Pseudonocardiaceae;Saccharothrix;Saccharothrix coeruleofusca
+>1
+S001264420|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Micrococcineae;Intrasporangiaceae;Phycicoccus;Phycicoccus cremeus
+>1
+S000473521|Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;Lactobacillus gastricus
+>1
+S000438914|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Mycobacteriaceae;Mycobacterium;Mycobacterium novocastrense
+>1
+S000138302|Bacteria;Firmicutes;Bacilli;Lactobacillales;Enterococcaceae;Enterococcus;Enterococcus asini
+>1
+S000140189|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Pseudonocardineae;Pseudonocardiaceae;Amycolatopsis;Amycolatopsis tolypomycina
+>1
+S000009676|Bacteria;"Proteobacteria";Deltaproteobacteria;Desulfuromonadales;Desulfuromonadaceae;Pelobacter;Pelobacter acetylenicus
+>1
+S000351468|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Micrococcineae;Microbacteriaceae;Plantibacter;Plantibacter flavus
+>1
+S000558897|Bacteria;"Proteobacteria";Gammaproteobacteria;"Vibrionales";Vibrionaceae;Salinivibrio;Salinivibrio proteolyticus
+>2
+S001020351|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Chara vulgaris
+S001020348|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Chara vulgaris
+>3
+S002289703|Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiales_IncertaeSedisIII;Caldicellulosiruptor;Caldicellulosiruptor bescii
+S002290809|Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiales_IncertaeSedisIII;Caldicellulosiruptor;Caldicellulosiruptor bescii
+S002289989|Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiales_IncertaeSedisIII;Caldicellulosiruptor;Caldicellulosiruptor bescii
+>1
+S002287182|Bacteria;"Synergistetes";Synergistia;Synergistales;Synergistaceae;Thermanaerovibrio;Thermanaerovibrio acidaminovorans
+>1
+S000009616|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Micrococcineae;Dermabacteraceae;Dermabacter;Dermabacter hominis
+>1
+S000015744|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Pseudonocardineae;Pseudonocardiaceae;Pseudonocardia;Pseudonocardia petroleophila
+>1
+S000407326|Bacteria;"Proteobacteria";Gammaproteobacteria;Alteromonadales;Shewanellaceae;Shewanella;Shewanella donghaensis
+>1
+S000006587|Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;ClostridiumIII;Clostridium papyrosolvens
+>1
+S000356239|Bacteria;"Tenericutes";Mollicutes;Entomoplasmatales;Spiroplasmataceae;Spiroplasma;Spiroplasma diminutum
+>1
+S000391503|Bacteria;Firmicutes;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus pettenkoferi
+>1
+S000388893|Bacteria;"Proteobacteria";Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Xylella;Xylella fastidiosa
+>1
+S000652957|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Nocardiaceae;Gordonia;Gordonia defluvii
+>1
+S000011733|Bacteria;"Proteobacteria";Epsilonproteobacteria;Nautiliales;Nautiliaceae;Nautilia;Nautilia profundicola
+>2
+S000498657|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Mesostigma viride
+S000498654|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Mesostigma viride
+>1
+S000389438|Bacteria;"Proteobacteria";Gammaproteobacteria;Pasteurellales;Pasteurellaceae;Haemophilus;Haemophilus felis
+>1
+S000366306|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Mycobacteriaceae;Mycobacterium;Mycobacterium parmense
+>1
+S000356241|Bacteria;"Tenericutes";Mollicutes;Entomoplasmatales;Spiroplasmataceae;Spiroplasma;Spiroplasma insolitum
+>1
+S000007327|Bacteria;Firmicutes;Bacilli;Lactobacillales;Carnobacteriaceae;Trichococcus;Trichococcus pasteurii
+>1
+S000247788|Bacteria;"Deinococcus-Thermus";Deinococci;Deinococcales;Deinococcaceae;Deinococcus;Deinococcus marmoris
+>2
+S001020421|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Ipomoea purpurea
+S001020424|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Ipomoea purpurea
+>1
+S000004997|Bacteria;"Proteobacteria";Alphaproteobacteria;Rhodospirillales;Acetobacteraceae;Gluconacetobacter;Gluconacetobacter europaeus
+>1
+S000859723|Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiales_IncertaeSedisXI;Tepidimicrobium;Tepidimicrobium xylanilyticum
+>1
+S000428088|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Pseudonocardineae;Pseudonocardiaceae;Prauserella;Prauserella rugosa
+>2
+S000145155|Bacteria;"Proteobacteria";Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas cedrina
+S000145156|Bacteria;"Proteobacteria";Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas trivialis
+>1
+S000769535|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Pseudonocardineae;Pseudonocardiaceae;Pseudonocardia;Pseudonocardia carboxydivorans
+>4
+S000641830|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Spinacia oleracea
+S000641827|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Spinacia oleracea
+S001020522|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Ranunculus macranthus
+S001020519|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Ranunculus macranthus
+>1
+S000429093|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Pseudonocardineae;Pseudonocardiaceae;Lechevalieria;Lechevalieria aerocolonigenes
+>1
+S000433334|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Mycobacteriaceae;Mycobacterium;Mycobacterium palustre
+>1
+S000381284|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Streptomycineae;Streptomycetaceae;Streptomyces;Streptomyces galbus
+>1
+S000429073|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Streptomycineae;Streptomycetaceae;Streptomyces;Streptomyces nodosus
+>1
+S000007041|Bacteria;"Bacteroidetes";"Sphingobacteria";"Sphingobacteriales";Cytophagaceae;Hymenobacter;Hymenobacter ocellatus
+>2
+S001020533|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Sorghum bicolor
+S001020530|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Sorghum bicolor
+>1
+S000381731|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Micrococcineae;Microbacteriaceae;Microbacterium;Microbacterium keratanolyticum
+>1
+S000414511|Bacteria;Firmicutes;Clostridia;Halanaerobiales;Halanaerobiaceae;Halothermothrix;Halothermothrix orenii
+>1
+S000245345|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Micromonosporineae;Micromonosporaceae;Actinoplanes;Actinoplanes utahensis
+>1
+S000271819|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Streptomycineae;Streptomycetaceae;Streptomyces;Streptomyces tubercidicus
+>1
+S000438494|Bacteria;"Spirochaetes";Spirochaetes;Spirochaetales;Spirochaetaceae;Spirochaeta;Spirochaeta smaragdinae
+>1
+S000414121|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Bifidobacteriales;Bifidobacteriaceae;Bifidobacterium;Bifidobacterium indicum
+>1
+S000352703|Bacteria;"Spirochaetes";Spirochaetes;Spirochaetales;Spirochaetaceae;Spirochaeta;Spirochaeta coccoides
+>1
+S000005441|Bacteria;"Proteobacteria";Betaproteobacteria;Burkholderiales;Comamonadaceae;Simplicispira;Simplicispira metamorpha
+>1
+S000391703|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Mycobacteriaceae;Mycobacterium;Mycobacterium montefiorense
+>1
+S001198112|Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus;Streptococcus dentapri
+>1
+S000018317|Bacteria;"Proteobacteria";Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Novosphingobium;Novosphingobium hassiacum
+>2
+S000022484|Bacteria;"Proteobacteria";Gammaproteobacteria;Oceanospirillales;Halomonadaceae;Halomonas;Halomonas aquamarina
+S000010999|Bacteria;"Proteobacteria";Gammaproteobacteria;Oceanospirillales;Halomonadaceae;Halomonas;Halomonas meridiana
+>1
+S002287884|Bacteria;"Proteobacteria";Gammaproteobacteria;Chromatiales;Chromatiaceae;Nitrosococcus;Nitrosococcus oceani
+>1
+S000388242|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Micromonosporineae;Micromonosporaceae;Catellatospora;Catellatospora methionotrophica
+>1
+S000437501|Bacteria;"Proteobacteria";Alphaproteobacteria;Rhizobiales;Bradyrhizobiaceae;Bradyrhizobium;Bradyrhizobium elkanii
+>1
+S002351527|Bacteria;"Acidobacteria";Acidobacteria_Gp1;Terriglobus;Terriglobus saanensis SP1PR4
+>1
+S000011961|Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae2;Halobacillus;Halobacillus litoralis
+>1
+S000014939|Bacteria;"Proteobacteria";Alphaproteobacteria;Rhizobiales;Bradyrhizobiaceae;Bradyrhizobium;Rhizobium lupini
+>1
+S000006932|Bacteria;"Proteobacteria";Alphaproteobacteria;Rhodospirillales;Acetobacteraceae;Acetobacter;Acetobacter pasteurianus
+>1
+S000005124|Bacteria;"Nitrospira";"Nitrospira";"Nitrospirales";"Nitrospiraceae";Nitrospira;Nitrospira moscoviensis
+>1
+S000436035|Bacteria;Firmicutes;Clostridia;Clostridiales;Heliobacteriaceae;Heliobacterium;Heliobacterium chlorum
+>1
+S000391690|Bacteria;"Proteobacteria";Gammaproteobacteria;Oceanospirillales;Alcanivoracaceae;Alcanivorax;Alcanivorax venustensis
+>1
+S000965619|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Streptosporangineae;Thermomonosporaceae;Actinomadura;Actinomadura miaoliensis
+>1
+S000128655|Bacteria;Firmicutes;Clostridia;Clostridiales;Peptococcaceae2;Desulfotomaculum;Desulfotomaculum thermosapovorans
+>1
+S000007045|Bacteria;"Proteobacteria";Betaproteobacteria;Burkholderiales;Alcaligenaceae;Pelistega;Pelistega europaea
+>2
+S000626857|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Glycine max
+S000626854|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Glycine max
+>1
+S000567893|Bacteria;"Actinobacteria";Actinobacteria;Rubrobacteridae;Solirubrobacterales;Patulibacteraceae;Patulibacter;Patulibacter minatonensis
+>1
+S000414324|Bacteria;"Proteobacteria";Deltaproteobacteria;Desulfuromonadales;Geobacteraceae;Geobacter;Geobacter metallireducens
+>1
+S000540614|Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae1;Geobacillus;Geobacillus thermocatenulatus
+>1
+S000008742|Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;Lactobacillus gasseri
+>1
+S000460587|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Micrococcineae;Brevibacteriaceae;Brevibacterium;Brevibacterium celere
+>1
+S000253240|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Streptosporangineae;Thermomonosporaceae;Actinomadura;Actinomadura fibrosa
+>3
+S002288480|Bacteria;"Proteobacteria";Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia;Burkholderia lata
+S000005166|Bacteria;"Proteobacteria";Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia;Burkholderia plantarii
+S000610951|Bacteria;"Proteobacteria";Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia;Burkholderia lata
+>1
+S000368129|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Propionibacterineae;Nocardioidaceae;Kribbella;Kribbella solani
+>1
+S000011976|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Mycobacteriaceae;Mycobacterium;Mycobacterium simiae
+>2
+S002287944|Bacteria;"Chloroflexi";"Chloroflexi";"Chloroflexales";"Chloroflexaceae";Chloroflexus;Chloroflexus aggregans
+S002287734|Bacteria;"Chloroflexi";"Chloroflexi";"Chloroflexales";"Chloroflexaceae";Chloroflexus;Chloroflexus aggregans
+>4
+S002289652|Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae1;Clostridiumsensustricto;Clostridium kluyveri
+S002288629|Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae1;Clostridiumsensustricto;Clostridium kluyveri
+S002289912|Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae1;Clostridiumsensustricto;Clostridium kluyveri
+S002291175|Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae1;Clostridiumsensustricto;Clostridium kluyveri
+>1
+S000871062|Bacteria;"Chrysiogenetes";Chrysiogenetes;Chrysiogenales;Chrysiogenaceae;Desulfurispirillum;Desulfurispirillum indicum
+>1
+S000357062|Bacteria;"Proteobacteria";Gammaproteobacteria;"Vibrionales";Vibrionaceae;Vibrio;Vibrio gallicus
+>2
+S000438365|Bacteria;"Proteobacteria";Alphaproteobacteria;Rhizobiales;Bradyrhizobiaceae;Bradyrhizobium;Bradyrhizobium japonicum
+S000389094|Bacteria;"Proteobacteria";Alphaproteobacteria;Rhizobiales;Bradyrhizobiaceae;Bradyrhizobium;Bradyrhizobium liaoningense
+>1
+S001241593|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Micrococcineae;Micrococcaceae;Micrococcus;Micrococcus terreus
+>1
+S000002409|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Streptomycineae;Streptomycetaceae;Streptomyces;Streptomyces auratus
+>1
+S000444953|Bacteria;"Tenericutes";Mollicutes;Mycoplasmatales;Mycoplasmataceae;Mycoplasma;Mycoplasma orale
+>4
+S002288375|Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;ClostridiumIII;Clostridium thermocellum
+S000804914|Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;ClostridiumIII;Clostridium thermocellum
+S000804917|Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;ClostridiumIII;Clostridium thermocellum
+S002290315|Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;ClostridiumIII;Clostridium thermocellum
+>1
+S000394148|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Pseudonocardineae;Pseudonocardiaceae;Prauserella;Prauserella alba
+>1
+S000357627|Bacteria;Firmicutes;Clostridia;Clostridiales;Syntrophomonadaceae;Syntrophomonas;Syntrophomonas curvata
+>4
+S002288195|Bacteria;"Chlorobi";"Chlorobia";Chlorobiales;Chlorobiaceae;Chlorobium;Chlorobium limicola
+S002288148|Bacteria;"Chlorobi";"Chlorobia";Chlorobiales;Chlorobiaceae;Chlorobium;Chlorobium limicola
+S001044294|Bacteria;"Chlorobi";"Chlorobia";Chlorobiales;Chlorobiaceae;Chlorobium;Chlorobium limicola
+S001044292|Bacteria;"Chlorobi";"Chlorobia";Chlorobiales;Chlorobiaceae;Chlorobium;Chlorobium limicola
+>1
+S001351537|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Pseudonocardineae;Pseudonocardiaceae;Saccharomonospora;Saccharomonospora marina
+>1
+S000016429|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Mycobacteriaceae;Mycobacterium;Mycobacterium botniense
+>1
+S000438628|Bacteria;"Proteobacteria";Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Rhizobium;Rhizobium giardinii
+>8
+S000323146|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Calycanthus floridus var. glaucus
+S000323143|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Calycanthus floridus var. glaucus
+S000323988|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Nymphaea alba
+S000323985|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Nymphaea alba
+S001020439|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Liriodendron tulipifera
+S001020408|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Drimys granadensis
+S001020405|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Drimys granadensis
+S001020442|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Liriodendron tulipifera
+>1
+S000499737|Bacteria;"Proteobacteria";Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Pseudoxanthomonas;Pseudoxanthomonas taiwanensis
+>1
+S000701176|Bacteria;Firmicutes;Bacilli;Lactobacillales;Enterococcaceae;Vagococcus;Vagococcus elongatus
+>1
+S002289584|Bacteria;"Synergistetes";Synergistia;Synergistales;Synergistaceae;Thermanaerovibrio;Thermanaerovibrio acidaminovorans
+>4
+S002290591|Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;ClostridiumIII;Clostridium thermocellum
+S002288672|Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;ClostridiumIII;Clostridium thermocellum
+S000804915|Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;ClostridiumIII;Clostridium thermocellum
+S000804919|Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;ClostridiumIII;Clostridium thermocellum
+>1
+S000368258|Bacteria;"Proteobacteria";Gammaproteobacteria;"Enterobacteriales";Enterobacteriaceae;Photorhabdus;Photorhabdus asymbiotica
+>1
+S001243334|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Streptomycineae;Streptomycetaceae;Streptomyces;Streptomyces iranensis
+>1
+S000382574|Bacteria;"Proteobacteria";Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingomonas;Sphingomonas wittichii
+>1
+S000019290|Bacteria;"Proteobacteria";Gammaproteobacteria;"Enterobacteriales";Enterobacteriaceae;Photorhabdus;Photorhabdus luminescens
+>2
+S000254546|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Streptosporangineae;Thermomonosporaceae;Actinocorallia;Actinocorallia longicatena
+S000254866|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Streptosporangineae;Thermomonosporaceae;Actinocorallia;Actinocorallia glomerata
+>1
+S000008874|Bacteria;"Proteobacteria";Deltaproteobacteria;Desulfurellales;Desulfurellaceae;Desulfurella;Desulfurella acetivorans
+>1
+S000129449|Bacteria;"Proteobacteria";Gammaproteobacteria;Oceanospirillales;Halomonadaceae;Halomonas;Halomonas salina
+>1
+S000381047|Bacteria;Firmicutes;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus schleiferi
+>2
+S001020360|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Chlorokybus atmophyticus
+S001020357|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Chlorokybus atmophyticus
+>1
+S000019039|Bacteria;"Proteobacteria";Alphaproteobacteria;Rhodospirillales;Acetobacteraceae;Gluconacetobacter;Gluconacetobacter xylinus
+>6
+S000495540|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Triticum aestivum
+S000495537|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Triticum aestivum
+S001020307|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Agrostis stolonifera
+S001020310|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Agrostis stolonifera
+S001020413|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Hordeum vulgare subsp. vulgare
+S001020416|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Hordeum vulgare subsp. vulgare
+>2
+S000617956|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Psilotum nudum
+S000617959|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Psilotum nudum
+>3
+S002288391|Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae1;Clostridiumsensustricto;Clostridium kluyveri
+S002288754|Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae1;Clostridiumsensustricto;Clostridium kluyveri
+S002287077|Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae1;Clostridiumsensustricto;Clostridium kluyveri
+>1
+S000473557|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Micrococcineae;Promicromonosporaceae;Xylanibacterium;Xylanibacterium ulmi
+>2
+S001020311|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Aneura mirabilis
+S001020314|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Aneura mirabilis
+>1
+S000438872|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Streptomycineae;Streptomycetaceae;Streptomyces;Streptomyces thermocarboxydus
+>1
+S001550490|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Streptomycineae;Streptomycetaceae;Streptomyces;Streptomyces youssoufiensis
+>1
+S000436037|Bacteria;"Proteobacteria";Betaproteobacteria;Burkholderiales;Comamonadaceae;Comamonas;Comamonas testosteroni
+>1
+S000842175|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Streptomycineae;Streptomycetaceae;Kitasatospora;Kitasatospora putterlickiae
+>1
+S000262527|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Streptomycineae;Streptomycetaceae;Streptomyces;Streptomyces europaeiscabiei
+>1
+S000964286|Bacteria;"Proteobacteria";Deltaproteobacteria;Desulfovibrionales;Desulfovibrionaceae;Desulfovibrio;Desulfovibrio marinisediminis
+>1
+S000428093|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Pseudonocardineae;Pseudonocardiaceae;Amycolatopsis;Amycolatopsis thermoflava
+>1
+S000735839|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Mycobacteriaceae;Mycobacterium;Mycobacterium salmoniphilum
+>3
+S000394041|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Nocardiaceae;Nocardia;Nocardia pseudobrasiliensis
+S000394038|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Nocardiaceae;Nocardia;Nocardia seriolae
+S000394027|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Nocardiaceae;Nocardia;Nocardia nova
+>1
+S000623894|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Micrococcineae;Micrococcaceae;Arthrobacter;Arthrobacter phenanthrenivorans
+>1
+S000804593|Bacteria;"Proteobacteria";Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia;Burkholderia endofungorum
+>1
+S000841843|Bacteria;"Actinobacteria";Actinobacteria;Rubrobacteridae;Rubrobacterales;"Rubrobacterineae";Rubrobacteraceae;Rubrobacter;Rubrobacter taiwanensis
+>4
+S000768678|Bacteria;"Chlorobi";"Chlorobia";Chlorobiales;Chlorobiaceae;Chlorobium;Chlorobium phaeobacteroides
+S000768680|Bacteria;"Chlorobi";"Chlorobia";Chlorobiales;Chlorobiaceae;Chlorobium;Chlorobium phaeobacteroides
+S002291130|Bacteria;"Chlorobi";"Chlorobia";Chlorobiales;Chlorobiaceae;Chlorobium;Chlorobium phaeobacteroides
+S002289006|Bacteria;"Chlorobi";"Chlorobia";Chlorobiales;Chlorobiaceae;Chlorobium;Chlorobium phaeobacteroides
+>1
+S000016452|Bacteria;"Proteobacteria";Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas mendocina
+>1
+S000000835|Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Sporobacter;Sporobacter termitidis
+>1
+S000356235|Bacteria;"Tenericutes";Mollicutes;Entomoplasmatales;Spiroplasmataceae;Spiroplasma;Spiroplasma chinense
+>1
+S000768797|Bacteria;"Proteobacteria";Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;Azospirillum;Azospirillum canadense
+>1
+S000546730|Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;Lactobacillus saerimneri
+>1
+S000129173|Bacteria;"Proteobacteria";Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Pannonibacter;Pannonibacter phragmitetus
+>1
+S000446299|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Pseudonocardineae;Pseudonocardiaceae;Lentzea;Lentzea albidocapillata
+>2
+S000531308|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Cucumis sativus
+S000531305|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Cucumis sativus
+>1
+S000769549|Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiales_incertae_sedis;Proteiniborus;Proteiniborus ethanoligenes
+>1
+S000437509|Bacteria;"Proteobacteria";Gammaproteobacteria;Thiotrichales;Piscirickettsiaceae;Piscirickettsia;Piscirickettsia salmonis
+>1
+S000130034|Bacteria;"Chrysiogenetes";Chrysiogenetes;Chrysiogenales;Chrysiogenaceae;Chrysiogenes;Chrysiogenes arsenatis
+>1
+S000004579|Bacteria;"Chlorobi";"Chlorobia";Chlorobiales;Chlorobiaceae;Prosthecochloris;Prosthecochloris vibrioformis
+>1
+S000395050|Bacteria;"Proteobacteria";Alphaproteobacteria;Rhizobiales;Hyphomicrobiaceae;Devosia;Devosia neptuniae
+>1
+S001152203|Bacteria;"Bacteroidetes";Flavobacteria;"Flavobacteriales";Flavobacteriaceae;Chryseobacterium;Chryseobacterium anthropi
+>1
+S000009690|Bacteria;"Proteobacteria";Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas synxantha
+>1
+S000964258|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Actinomycineae;Actinomycetaceae;Trueperella;Arcanobacterium abortisuis
+>1
+S001353231|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Micrococcineae;Microbacteriaceae;Clavibacter;Clavibacter michiganensis
+>2
+S001020446|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Lobularia maritima
+S001020443|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Lobularia maritima
+>2
+S000592062|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Acorus calamus
+S000592059|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Acorus calamus
+>1
+S000351476|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Micrococcineae;Microbacteriaceae;Curtobacterium;Curtobacterium flaccumfaciens
+>1
+S000401711|Bacteria;Firmicutes;Bacilli;Bacillales;Paenibacillaceae1;Paenibacillus;Paenibacillus favisporus
+>1
+S000806423|Bacteria;"Proteobacteria";Alphaproteobacteria;Rhizobiales;Xanthobacteraceae;Labrys;Labrys wisconsinensis
+>1
+S000994720|Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae2;Oceanobacillus;Oceanobacillus kapialis
+>1
+S000011985|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Propionibacterineae;Propionibacteriaceae;Propionibacterium;Propionibacterium avidum
+>1
+S000002498|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Bifidobacteriales;Bifidobacteriaceae;Bifidobacterium;Bifidobacterium animalis
+>1
+S000390059|Bacteria;Firmicutes;Clostridia;Clostridiales;Heliobacteriaceae;Heliobacterium;Heliobacterium sulfidophilum
+>1
+S000750443|Bacteria;"Aquificae";Aquificae;Aquificales;Hydrogenothermaceae;Venenivibrio;Venenivibrio stagnispumantis
+>2
+S002288028|Bacteria;Firmicutes;Clostridia;Thermoanaerobacterales;Thermoanaerobacteraceae;Caldanaerobacter;Caldanaerobacter subterraneus
+S001328126|Bacteria;Firmicutes;Clostridia;Thermoanaerobacterales;Thermoanaerobacteraceae;Caldanaerobacter;Caldanaerobacter subterraneus
+>1
+S000469278|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Streptomycineae;Streptomycetaceae;Kitasatospora;Kitasatospora cineracea
+>1
+S000381049|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Actinomycineae;Actinomycetaceae;Actinobaculum;Actinobaculum suis
+>2
+S001020353|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Chloranthus spicatus
+S001020356|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Chloranthus spicatus
+>1
+S001239105|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Propionibacterineae;Propionibacteriaceae;Friedmanniella;Friedmanniella sagamiharensis
+>1
+S000017481|Bacteria;"Proteobacteria";Betaproteobacteria;Burkholderiales;Burkholderiaceae;Pandoraea;Pandoraea norimbergensis
+>2
+S001020458|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Nandina domestica
+S001020455|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Nandina domestica
+>1
+S000008544|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Propionibacterineae;Propionibacteriaceae;Propionibacterium;Propionibacterium propionicum
+>1
+S000414339|Bacteria;Firmicutes;Clostridia;Thermoanaerobacterales;Thermoanaerobacteraceae;Thermoanaerobacter;Thermoanaerobacter thermohydrosulfuricus
+>1
+S000388243|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Micromonosporineae;Micromonosporaceae;Asanoa;Asanoa ferruginea
+>2
+S001020510|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Populus alba
+S001020513|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Populus alba
+>2
+S001152419|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Mycobacteriaceae;Mycobacterium;Mycobacterium seoulense
+S001263617|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Mycobacteriaceae;Mycobacterium;Mycobacterium paraseoulense
+>1
+S000324036|Bacteria;"Spirochaetes";Spirochaetes;Spirochaetales;Spirochaetaceae;Spirochaeta;Spirochaeta bajacaliforniensis
+>1
+S001170766|Bacteria;"Proteobacteria";Betaproteobacteria;Burkholderiales;Burkholderiaceae;Polynucleobacter;Polynucleobacter rarus
+>1
+S000356237|Bacteria;"Tenericutes";Mollicutes;Entomoplasmatales;Spiroplasmataceae;Spiroplasma;Spiroplasma corruscae
+>8
+S000768664|Bacteria;"Proteobacteria";Deltaproteobacteria;Desulfuromonadales;unclassified_Desulfuromonadales;Pelobacter propionicus
+S000768662|Bacteria;"Proteobacteria";Deltaproteobacteria;Desulfuromonadales;unclassified_Desulfuromonadales;Pelobacter propionicus
+S000768657|Bacteria;"Proteobacteria";Deltaproteobacteria;Desulfuromonadales;unclassified_Desulfuromonadales;Pelobacter propionicus
+S000768659|Bacteria;"Proteobacteria";Deltaproteobacteria;Desulfuromonadales;unclassified_Desulfuromonadales;Pelobacter propionicus
+S002290737|Bacteria;"Proteobacteria";Deltaproteobacteria;Desulfuromonadales;Desulfuromonadaceae;Pelobacter;Pelobacter propionicus
+S002289646|Bacteria;"Proteobacteria";Deltaproteobacteria;Desulfuromonadales;Desulfuromonadaceae;Pelobacter;Pelobacter propionicus
+S002289908|Bacteria;"Proteobacteria";Deltaproteobacteria;Desulfuromonadales;Desulfuromonadaceae;Pelobacter;Pelobacter propionicus
+S002287626|Bacteria;"Proteobacteria";Deltaproteobacteria;Desulfuromonadales;Desulfuromonadaceae;Pelobacter;Pelobacter propionicus
+>1
+S000824093|Bacteria;"Proteobacteria";Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Stenotrophomonas;Stenotrophomonas maltophilia
+>1
+S000538408|Bacteria;Firmicutes;Bacilli;Bacillales;Listeriaceae;Listeria;Listeria seeligeri
+>1
+S000260202|Bacteria;Firmicutes;Clostridia;Clostridiales;Peptostreptococcaceae;ClostridiumXI;Clostridium irregulare
+>1
+S000414230|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Bifidobacteriales;Bifidobacteriaceae;Scardovia;Scardovia inopinata
+>3
+S002289841|Bacteria;"Proteobacteria";Gammaproteobacteria;Legionellales;Legionellaceae;Legionella;Legionella pneumophila
+S002288130|Bacteria;"Proteobacteria";Gammaproteobacteria;Legionellales;Legionellaceae;Legionella;Legionella pneumophila
+S002287594|Bacteria;"Proteobacteria";Gammaproteobacteria;Legionellales;Legionellaceae;Legionella;Legionella pneumophila
+>2
+S001020420|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Illicium oligandrum
+S001020417|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Illicium oligandrum
+>1
+S000394040|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Nocardiaceae;Nocardia;Nocardia paucivorans
+>2
+S000628112|Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae1;Clostridiumsensustricto;Clostridium acetobutylicum
+S002290105|Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae1;Clostridiumsensustricto;Clostridium acetobutylicum
+>1
+S000428079|Bacteria;"Proteobacteria";Deltaproteobacteria;Desulfovibrionales;Desulfovibrionaceae;Desulfovibrio;Desulfovibrio senezii
+>1
+S000130978|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Pseudonocardineae;Pseudonocardiaceae;Pseudonocardia;Pseudonocardia spinosispora
+>1
+S000730526|Bacteria;"Proteobacteria";Betaproteobacteria;Burkholderiales;Burkholderiaceae;Polynucleobacter;Polynucleobacter necessarius
+>10
+S002289792|Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;ClostridiumXlVa;Clostridium phytofermentans
+S002288371|Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;ClostridiumXlVa;Clostridium phytofermentans
+S002287677|Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;ClostridiumXlVa;Clostridium phytofermentans
+S000965298|Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;ClostridiumXlVa;Clostridium phytofermentans
+S000965290|Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;ClostridiumXlVa;Clostridium phytofermentans
+S000965285|Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;ClostridiumXlVa;Clostridium phytofermentans
+S000965287|Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;ClostridiumXlVa;Clostridium phytofermentans
+S000965283|Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;ClostridiumXlVa;Clostridium phytofermentans
+S002287374|Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;ClostridiumXlVa;Clostridium phytofermentans
+S002290306|Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;ClostridiumXlVa;Clostridium phytofermentans
+>1
+S000014598|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Micrococcineae;Dermabacteraceae;Brachybacterium;Brachybacterium nesterenkovii
+>1
+S000001335|Bacteria;"Proteobacteria";Betaproteobacteria;Rhodocyclales;Rhodocyclaceae;Azoarcus;Azoarcus evansii
+>4
+S002290702|Bacteria;Firmicutes;Clostridia;Thermoanaerobacterales;Thermoanaerobacteraceae;Thermoanaerobacter;Thermoanaerobacter pseudethanolicus
+S002290955|Bacteria;Firmicutes;Clostridia;Thermoanaerobacterales;Thermoanaerobacteraceae;Thermoanaerobacter;Thermoanaerobacter pseudethanolicus
+S000995107|Bacteria;Firmicutes;Clostridia;Thermoanaerobacterales;Thermoanaerobacteraceae;Thermoanaerobacter;Thermoanaerobacter pseudethanolicus
+S000995112|Bacteria;Firmicutes;Clostridia;Thermoanaerobacterales;Thermoanaerobacteraceae;Thermoanaerobacter;Thermoanaerobacter pseudethanolicus
+>1
+S000255250|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Streptosporangineae;Thermomonosporaceae;Actinocorallia;Actinocorallia aurantiaca
+>1
+S000439343|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Streptomycineae;Streptomycetaceae;Streptomyces;Streptomyces acidiscabies
+>1
+S000000311|Bacteria;"Proteobacteria";Betaproteobacteria;Rhodocyclales;Rhodocyclaceae;Azoarcus;Azoarcus anaerobius
+>1
+S000396356|Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae2;Virgibacillus;Virgibacillus sediminis
+>2
+S000394039|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Nocardiaceae;Nocardia;Nocardia brevicatena
+S000394026|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Nocardiaceae;Nocardia;Nocardia cyriacigeorgica
+>1
+S002350817|Bacteria;Firmicutes;Clostridia;Clostridiales;Peptostreptococcaceae;ClostridiumXI;Clostridium thermoalcaliphilum
+>1
+S001047660|Bacteria;"Proteobacteria";Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Psychrobacter;Psychrobacter lutiphocae
+>1
+S000414124|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Bifidobacteriales;Bifidobacteriaceae;Bifidobacterium;Bifidobacterium gallinarum
+>1
+S001188489|Bacteria;"Proteobacteria";Deltaproteobacteria;Desulfovibrionales;Desulfohalobiaceae;Desulfonauticus;Desulfonauticus autotrophicus
+>1
+S000539927|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Dietziaceae;Dietzia;Dietzia cinnamea
+>1
+S000112631|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Mycobacteriaceae;Mycobacterium;Mycobacterium smegmatis
+>1
+S000414356|Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiales_IncertaeSedisIII;Caldicellulosiruptor;Caldicellulosiruptor saccharolyticus
+>1
+S000428921|Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus;Streptococcus intermedius
+>1
+S000474908|Bacteria;"Proteobacteria";Gammaproteobacteria;Oceanospirillales;Oceanospirillaceae;Marinomonas;Marinomonas pontica
+>1
+S000008489|Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae1;Clostridiumsensustricto;Clostridium thermopalmarium
+>1
+S000015305|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Micrococcineae;Dermabacteraceae;Brachybacterium;Brachybacterium alimentarium
+>1
+S000013058|Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae1;Caloramator;Caloramator indicus
+>1
+S000471102|Bacteria;"Proteobacteria";Betaproteobacteria;Burkholderiales;Comamonadaceae;Hydrogenophaga;Hydrogenophaga atypica
+>1
+S001793636|Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae1;Fervidicella;Fervidicella metallireducens
+>1
+S000022369|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Pseudonocardineae;Pseudonocardiaceae;Pseudonocardia;Pseudonocardia compacta
+>1
+S000438992|Bacteria;"Tenericutes";Mollicutes;Entomoplasmatales;Spiroplasmataceae;Spiroplasma;Spiroplasma helicoides
+>2
+S000002374|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Mycobacteriaceae;Mycobacterium;Mycobacterium tuberculosis
+S000014993|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Mycobacteriaceae;Mycobacterium;Mycobacterium caprae
+>1
+S000503167|Bacteria;"Proteobacteria";Gammaproteobacteria;Aeromonadales;Aeromonadaceae;Oceanimonas;Oceanimonas smirnovii
+>1
+S000396324|Bacteria;Firmicutes;Bacilli;Bacillales;Staphylococcaceae;Macrococcus;Macrococcus lamae
+>1
+S000438627|Bacteria;"Proteobacteria";Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Rhizobium;Rhizobium gallicum
+>1
+S001329668|Bacteria;Firmicutes;Bacilli;Bacillales;Paenibacillaceae1;Paenibacillus;Paenibacillus tianmuensis
+>1
+S000386216|Bacteria;"Proteobacteria";Betaproteobacteria;Burkholderiales;Burkholderiaceae;Cupriavidus;Cupriavidus pinatubonensis
+>1
+S000964170|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Micromonosporineae;Micromonosporaceae;Pseudosporangium;Pseudosporangium ferrugineum
+>2
+S000721518|Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae1;Clostridiumsensustricto;Clostridium perfringens
+S002289375|Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae1;Clostridiumsensustricto;Clostridium perfringens
+>1
+S000843766|Bacteria;"Proteobacteria";"Zetaproteobacteria";"Mariprofundales";"Mariprofundaceae";Mariprofundus;Mariprofundus ferrooxydans
+>1
+S000128771|Bacteria;Firmicutes;Bacilli;Bacillales;Paenibacillaceae1;Thermobacillus;Thermobacillus xylanilyticus
+>1
+S000469272|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Streptomycineae;Streptomycetaceae;Kitasatospora;Kitasatospora phosalacinea
+>1
+S000414771|Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;Lactobacillus lindneri
+>2
+S001020385|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Cuscuta reflexa
+S001020388|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Cuscuta reflexa
+>2
+S000469505|Bacteria;"Proteobacteria";Betaproteobacteria;Burkholderiales;Burkholderiaceae;unclassified_Burkholderiaceae;Wautersia numazuensis
+S000383706|Bacteria;"Proteobacteria";Betaproteobacteria;Burkholderiales;Burkholderiaceae;Cupriavidus;Cupriavidus laharis
+>1
+S001170764|Bacteria;"Proteobacteria";Betaproteobacteria;Burkholderiales;Burkholderiaceae;Polynucleobacter;Polynucleobacter acidiphobus
+>1
+S000356249|Bacteria;"Tenericutes";Mollicutes;Entomoplasmatales;Spiroplasmataceae;Spiroplasma;Spiroplasma velocicrescens
+>1
+S001044888|Bacteria;"Bacteroidetes";"Sphingobacteria";"Sphingobacteriales";Cytophagaceae;Adhaeribacter;Adhaeribacter terreus
+>1
+S000006100|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Streptomycineae;Streptomycetaceae;Streptomyces;Streptomyces armeniacus
+>1
+S000018936|Bacteria;"Proteobacteria";Gammaproteobacteria;"Vibrionales";Vibrionaceae;Photobacterium;Photobacterium damselae
+>1
+S000356238|Bacteria;"Tenericutes";Mollicutes;Entomoplasmatales;Spiroplasmataceae;Spiroplasma;Spiroplasma culicicola
+>1
+S000139247|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Pseudonocardineae;Pseudonocardiaceae;Amycolatopsis;Amycolatopsis lurida
+>1
+S000540640|Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae1;Geobacillus;Geobacillus thermodenitrificans
+>1
+S000381275|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Streptomycineae;Streptomycetaceae;Streptomyces;Streptomyces mashuensis
+>1
+S000014972|Bacteria;"Proteobacteria";Alphaproteobacteria;Rhodospirillales;Acetobacteraceae;Gluconobacter;Gluconobacter oxydans
+>1
+S000011862|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Kineosporiineae;Kineosporiaceae;Kineosporia;Kineosporia aurantiaca
+>1
+S000129448|Bacteria;"Proteobacteria";Gammaproteobacteria;Oceanospirillales;Halomonadaceae;Chromohalobacter;Chromohalobacter israelensis
+>1
+S000390779|Bacteria;"Actinobacteria";Actinobacteria;Coriobacteridae;Coriobacteriales;"Coriobacterineae";Coriobacteriaceae;Eggerthella;Eggerthella lenta
+>2
+S000994820|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Micrococcineae;Microbacteriaceae;Clavibacter;Clavibacter michiganensis
+S002287196|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Micrococcineae;Microbacteriaceae;Clavibacter;Clavibacter michiganensis
+>1
+S000001172|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Pseudonocardineae;Pseudonocardiaceae;Pseudonocardia;Pseudonocardia saturnea
+>1
+S000273874|Bacteria;"Proteobacteria";Gammaproteobacteria;"Vibrionales";Vibrionaceae;Photobacterium;Photobacterium frigidiphilum
+>6
+S002288372|Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;ClostridiumXlVa;Clostridium phytofermentans
+S002288428|Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;ClostridiumXlVa;Clostridium phytofermentans
+S000965294|Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;ClostridiumXlVa;Clostridium phytofermentans
+S000965292|Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;ClostridiumXlVa;Clostridium phytofermentans
+S000965296|Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;ClostridiumXlVa;Clostridium phytofermentans
+S002289395|Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;ClostridiumXlVa;Clostridium phytofermentans
+>1
+S000979324|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Micrococcineae;Microbacteriaceae;Leifsonia;Leifsonia antarctica
+>14
+S002290527|Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;Lactobacillus delbrueckii
+S002288212|Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;Lactobacillus delbrueckii
+S002290689|Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;Lactobacillus delbrueckii
+S002287584|Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;Lactobacillus delbrueckii
+S000690654|Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;Lactobacillus delbrueckii
+S000690656|Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;Lactobacillus delbrueckii
+S000690652|Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;Lactobacillus delbrueckii
+S000690658|Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;Lactobacillus delbrueckii
+S000690645|Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;Lactobacillus delbrueckii
+S000690647|Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;Lactobacillus delbrueckii
+S000690660|Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;Lactobacillus delbrueckii
+S002287646|Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;Lactobacillus delbrueckii
+S002291251|Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;Lactobacillus delbrueckii
+S002288004|Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;Lactobacillus delbrueckii
+>1
+S001044887|Bacteria;"Proteobacteria";Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Frateuria;Frateuria terrea
+>1
+S000428902|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Nocardiaceae;Gordonia;Gordonia amicalis
+>1
+S000439348|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Streptomycineae;Streptomycetaceae;Streptomyces;Streptomyces eurythermus
+>1
+S000414284|Bacteria;"Proteobacteria";Gammaproteobacteria;Oceanospirillales;Halomonadaceae;Halomonas;Halomonas halodenitrificans
+>1
+S000728102|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Corynebacteriaceae;Corynebacterium;Corynebacterium ureicelerivorans
+>1
+S000253241|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Streptosporangineae;Thermomonosporaceae;Actinomadura;Actinomadura livida
+>1
+S000437236|Bacteria;"Proteobacteria";Alphaproteobacteria;Rickettsiales;Rickettsiaceae;Rickettsia;Rickettsia honei
+>1
+S000005861|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Glycomycineae;Glycomycetaceae;Glycomyces;Glycomyces rutgersensis
+>1
+S002288412|Bacteria;"Acidobacteria";Acidobacteria_Gp1;Acidobacterium;Acidobacterium capsulatum
+>1
+S000011995|Bacteria;"Proteobacteria";Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas straminea
+>1
+S000396365|Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae2;Virgibacillus;Virgibacillus kekensis
+>1
+S000965174|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Corynebacteriaceae;Corynebacterium;Corynebacterium ulceribovis
+>1
+S000085848|Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;Lactobacillus versmoldensis
+>2
+S000628108|Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae1;Clostridiumsensustricto;Clostridium acetobutylicum
+S002287438|Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae1;Clostridiumsensustricto;Clostridium acetobutylicum
+>1
+S000102217|Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae1;Bacillus;Bacillus acidicola
+>2
+S002288673|Bacteria;Firmicutes;Clostridia;Thermoanaerobacterales;Thermoanaerobacteraceae;Ammonifex;Ammonifex degensii
+S002287191|Bacteria;Firmicutes;Clostridia;Thermoanaerobacterales;Thermoanaerobacteraceae;Ammonifex;Ammonifex degensii
+>1
+S000414350|Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiales_IncertaeSedisIII;Thermoanaerobacterium;Thermoanaerobacterium xylanolyticum
+>1
+S001418750|Bacteria;"Proteobacteria";Betaproteobacteria;Burkholderiales;Alcaligenaceae;Paenalcaligenes;Paenalcaligenes hominis
+>1
+S000014988|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Frankineae;Geodermatophilaceae;Modestobacter;Modestobacter multiseptatus
+>2
+S001020433|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Lepidium virginicum
+S001020436|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Lepidium virginicum
+>1
+S000593582|Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ethanoligenens;Ethanoligenens harbinense
+>2
+S000499514|Bacteria;"Proteobacteria";Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas extremorientalis
+S000013342|Bacteria;"Proteobacteria";Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas rhodesiae
+>1
+S000014058|Bacteria;Firmicutes;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus sciuri
+>1
+S000394053|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Nocardiaceae;Nocardia;Nocardia africana
+>1
+S000009597|Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae1;Clostridiumsensustricto;Clostridium baratii
+>2
+S002290233|Bacteria;Firmicutes;Clostridia;Thermoanaerobacterales;Thermoanaerobacteraceae;Caldanaerobacter;Caldanaerobacter subterraneus
+S001328124|Bacteria;Firmicutes;Clostridia;Thermoanaerobacterales;Thermoanaerobacteraceae;Caldanaerobacter;Caldanaerobacter subterraneus
+>1
+S002350786|Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae1;Clostridiumsensustricto;Clostridium oceanicum
+>1
+S000001126|Bacteria;"Proteobacteria";Deltaproteobacteria;Desulfovibrionales;Desulfovibrionaceae;Desulfovibrio;Desulfovibrio piger
+>2
+S002288649|Bacteria;Firmicutes;Clostridia;Thermoanaerobacterales;Thermoanaerobacteraceae;Thermoanaerobacter;Thermoanaerobacter pseudethanolicus
+S000995115|Bacteria;Firmicutes;Clostridia;Thermoanaerobacterales;Thermoanaerobacteraceae;Thermoanaerobacter;Thermoanaerobacter pseudethanolicus
+>1
+S000007914|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Streptomycineae;Streptomycetaceae;Streptomyces;Streptomyces niveiscabiei
+>1
+S000264491|Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;Lactobacillus suebicus
+>1
+S000414226|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Bifidobacteriales;Bifidobacteriaceae;Bifidobacterium;Bifidobacterium saeculare
+>1
+S000364540|Bacteria;Firmicutes;Bacilli;Bacillales;Alicyclobacillaceae;Alicyclobacillus;Alicyclobacillus acidiphilus
+>1
+S001796272|Bacteria;"Proteobacteria";Betaproteobacteria;Burkholderiales;Burkholderiales_incertae_sedis;Ideonella;Ideonella dechloratans
+>1
+S001416029|Bacteria;"Proteobacteria";Alphaproteobacteria;Rhizobiales;Bradyrhizobiaceae;Rhodopseudomonas;Rhodopseudomonas palustris
+>1
+S000606744|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Micromonosporineae;Micromonosporaceae;Krasilnikovia;Krasilnikovia cinnamomea
+>1
+S000600152|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Pseudonocardineae;Pseudonocardiaceae;Amycolatopsis;Amycolatopsis taiwanensis
+>1
+S000011481|Bacteria;"Proteobacteria";Alphaproteobacteria;Rhodospirillales;Acetobacteraceae;Gluconacetobacter;Gluconacetobacter diazotrophicus
+>1
+S000000444|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Pseudonocardineae;Pseudonocardiaceae;Pseudonocardia;Pseudonocardia hydrocarbonoxydans
+>1
+S000008182|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Propionibacterineae;Propionibacteriaceae;Propionibacterium;Propionibacterium granulosum
+>1
+S000405234|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Streptosporangineae;Thermomonosporaceae;Actinomadura;Actinomadura meyerae
+>2
+S000498585|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Chlorophyta;Nephroselmis olivacea
+S000498582|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Chlorophyta;Nephroselmis olivacea
+>1
+S000942582|Bacteria;Firmicutes;Bacilli;Bacillales;Paenibacillaceae1;Paenibacillus;Paenibacillus castaneae
+>1
+S000003125|Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;Lactobacillus sanfranciscensis
+>1
+S000388245|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Micromonosporineae;Micromonosporaceae;Hamadaea;Hamadaea tsunoensis
+>1
+S000022179|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Frankineae;Cryptosporangiaceae;Cryptosporangium;Cryptosporangium aurantiacum
+>1
+S000385185|Bacteria;"Proteobacteria";Alphaproteobacteria;Rhizobiales;Hyphomicrobiaceae;Rhodoplanes;Rhodoplanes serenus
+>1
+S000841842|Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiales_IncertaeSedisXI;Sporanaerobacter;Sporanaerobacter acetigenes
+>1
+S001014357|Bacteria;"Proteobacteria";Deltaproteobacteria;Desulfovibrionales;Desulfovibrionaceae;Desulfovibrio;Desulfovibrio marrakechensis
+>1
+S000386892|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Pseudonocardineae;Pseudonocardiaceae;Saccharopolyspora;Saccharopolyspora spinosa
+>2
+S000925950|Bacteria;"Chloroflexi";"Chloroflexi";"Chloroflexales";"Chloroflexaceae";Roseiflexus;Roseiflexus castenholzii
+S002287403|Bacteria;"Chloroflexi";"Chloroflexi";"Chloroflexales";"Chloroflexaceae";Roseiflexus;Roseiflexus castenholzii
+>1
+S000444151|Bacteria;"Tenericutes";Mollicutes;Entomoplasmatales;Spiroplasmataceae;Spiroplasma;Spiroplasma phoeniceum
+>1
+S000469058|Bacteria;"Proteobacteria";Epsilonproteobacteria;Campylobacterales;Helicobacteraceae;Helicobacter;Helicobacter pylori
+>1
+S000356242|Bacteria;"Tenericutes";Mollicutes;Entomoplasmatales;Spiroplasmataceae;Spiroplasma;Spiroplasma lampyridicola
+>1
+S001199928|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Streptosporangineae;Nocardiopsaceae;Nocardiopsis;Nocardiopsis potens
+>1
+S000021184|Bacteria;"Proteobacteria";Gammaproteobacteria;"Enterobacteriales";Enterobacteriaceae;Enterobacter;Enterobacter cloacae
+>1
+S000002066|Bacteria;"Proteobacteria";Betaproteobacteria;Rhodocyclales;Rhodocyclaceae;Propionivibrio;Propionivibrio limicola
+>1
+S000539587|Bacteria;"Proteobacteria";Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Jannaschia;Jannaschia rubra
+>1
+S000394048|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Nocardiaceae;Nocardia;Nocardia crassostreae
+>4
+S002288860|Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae1;Clostridiumsensustricto;Clostridium acetobutylicum
+S000628122|Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae1;Clostridiumsensustricto;Clostridium acetobutylicum
+S000628118|Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae1;Clostridiumsensustricto;Clostridium acetobutylicum
+S002291270|Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae1;Clostridiumsensustricto;Clostridium acetobutylicum
+>1
+S000022304|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Streptomycineae;Streptomycetaceae;Streptomyces;Streptomyces thermodiastaticus
+>1
+S000775371|Bacteria;Firmicutes;Clostridia;Clostridiales;Veillonellaceae;Sporotalea;Sporotalea propionica
+>1
+S000117161|Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae1;Bacillus;Bacillus algicola
+>1
+S000008916|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Pseudonocardineae;Pseudonocardiaceae;Pseudonocardia;Pseudonocardia autotrophica
+>1
+S000000222|Bacteria;"Proteobacteria";Gammaproteobacteria;Oceanospirillales;Halomonadaceae;Carnimonas;Carnimonas nigrificans
+>1
+S000368128|Bacteria;"Proteobacteria";Alphaproteobacteria;Rhizobiales;Methylobacteriaceae;Methylobacterium;Methylobacterium populi
+>1
+S000011583|Bacteria;Firmicutes;Clostridia;Clostridiales;Peptococcaceae2;Desulfotomaculum;Desulfotomaculum ruminis
+>8
+S002289889|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Bifidobacteriales;Bifidobacteriaceae;Bifidobacterium;Bifidobacterium adolescentis
+S002289553|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Bifidobacteriales;Bifidobacteriaceae;Bifidobacterium;Bifidobacterium adolescentis
+S000768586|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Bifidobacteriales;Bifidobacteriaceae;Bifidobacterium;Bifidobacterium adolescentis
+S000768592|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Bifidobacteriales;Bifidobacteriaceae;Bifidobacterium;Bifidobacterium adolescentis
+S000768590|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Bifidobacteriales;Bifidobacteriaceae;Bifidobacterium;Bifidobacterium adolescentis
+S000768594|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Bifidobacteriales;Bifidobacteriaceae;Bifidobacterium;Bifidobacterium adolescentis
+S002287045|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Bifidobacteriales;Bifidobacteriaceae;Bifidobacterium;Bifidobacterium adolescentis
+S002288075|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Bifidobacteriales;Bifidobacteriaceae;Bifidobacterium;Bifidobacterium adolescentis
+>1
+S000129410|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Micrococcineae;Micrococcaceae;Micrococcus;Micrococcus antarcticus
+>2
+S002288854|Bacteria;"Proteobacteria";Deltaproteobacteria;Desulfuromonadales;Desulfuromonadaceae;Pelobacter;Pelobacter carbinolicus
+S002289279|Bacteria;"Proteobacteria";Deltaproteobacteria;Desulfuromonadales;Desulfuromonadaceae;Pelobacter;Pelobacter carbinolicus
+>1
+S000246078|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Micromonosporineae;Micromonosporaceae;Actinoplanes;Actinoplanes missouriensis
+>1
+S000768791|Bacteria;Firmicutes;Bacilli;Bacillales;Staphylococcaceae;Salinicoccus;Salinicoccus salsiraiae
+>1
+S000015720|Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;Lactobacillus pontis
+>2
+S000016099|Bacteria;Firmicutes;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus hominis
+S000010870|Bacteria;Firmicutes;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus haemolyticus
+>1
+S000942115|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Micrococcineae;Microbacteriaceae;Leifsonia;Leifsonia shinshuensis
+>4
+S001020551|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Vitis vinifera
+S001020548|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Vitis vinifera
+S001020340|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Carica papaya
+S001020343|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Carica papaya
+>1
+S000427876|Bacteria;"Tenericutes";Mollicutes;Acholeplasmatales;Acholeplasmataceae;Acholeplasma;Acholeplasma vituli
+>1
+S000735041|Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;Lactobacillus secaliphilus
+>1
+S000428470|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Streptomycineae;Streptomycetaceae;Streptacidiphilus;Streptacidiphilus carbonis
+>1
+S000390459|Bacteria;"Proteobacteria";Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Stenotrophomonas;Stenotrophomonas acidaminiphila
+>1
+S000019071|Bacteria;"Bacteroidetes";"Sphingobacteria";"Sphingobacteriales";Cytophagaceae;Hymenobacter;Hymenobacter roseosalivarius
+>1
+S000088682|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Bifidobacteriales;Bifidobacteriaceae;Bifidobacterium;Bifidobacterium thermacidophilum
+>1
+S000564915|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Nocardiaceae;Nocardia;Nocardia aobensis
+>1
+S000437764|Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae1;Clostridiumsensustricto;Clostridium chauvoei
+>1
+S000444302|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Nocardiaceae;Nocardia;Nocardia lijiangensis
+>1
+S002153929|Bacteria;"Proteobacteria";Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Moraxella;Moraxella nonliquefaciens
+>18
+S002290640|Bacteria;Firmicutes;Bacilli;Bacillales;Bacillales_IncertaeSedisXII;Exiguobacterium;Exiguobacterium sibiricum
+S002289769|Bacteria;Firmicutes;Bacilli;Bacillales;Bacillales_IncertaeSedisXII;Exiguobacterium;Exiguobacterium sibiricum
+S002289725|Bacteria;Firmicutes;Bacilli;Bacillales;Bacillales_IncertaeSedisXII;Exiguobacterium;Exiguobacterium sibiricum
+S002288416|Bacteria;Firmicutes;Bacilli;Bacillales;Bacillales_IncertaeSedisXII;Exiguobacterium;Exiguobacterium sibiricum
+S001094605|Bacteria;Firmicutes;Bacilli;Bacillales;Bacillales_IncertaeSedisXII;Exiguobacterium;Exiguobacterium sibiricum
+S001094603|Bacteria;Firmicutes;Bacilli;Bacillales;Bacillales_IncertaeSedisXII;Exiguobacterium;Exiguobacterium sibiricum
+S001094601|Bacteria;Firmicutes;Bacilli;Bacillales;Bacillales_IncertaeSedisXII;Exiguobacterium;Exiguobacterium sibiricum
+S001094609|Bacteria;Firmicutes;Bacilli;Bacillales;Bacillales_IncertaeSedisXII;Exiguobacterium;Exiguobacterium sibiricum
+S001094607|Bacteria;Firmicutes;Bacilli;Bacillales;Bacillales_IncertaeSedisXII;Exiguobacterium;Exiguobacterium sibiricum
+S001094614|Bacteria;Firmicutes;Bacilli;Bacillales;Bacillales_IncertaeSedisXII;Exiguobacterium;Exiguobacterium sibiricum
+S001094611|Bacteria;Firmicutes;Bacilli;Bacillales;Bacillales_IncertaeSedisXII;Exiguobacterium;Exiguobacterium sibiricum
+S001094597|Bacteria;Firmicutes;Bacilli;Bacillales;Bacillales_IncertaeSedisXII;Exiguobacterium;Exiguobacterium sibiricum
+S001094599|Bacteria;Firmicutes;Bacilli;Bacillales;Bacillales_IncertaeSedisXII;Exiguobacterium;Exiguobacterium sibiricum
+S002290044|Bacteria;Firmicutes;Bacilli;Bacillales;Bacillales_IncertaeSedisXII;Exiguobacterium;Exiguobacterium sibiricum
+S002289241|Bacteria;Firmicutes;Bacilli;Bacillales;Bacillales_IncertaeSedisXII;Exiguobacterium;Exiguobacterium sibiricum
+S002287158|Bacteria;Firmicutes;Bacilli;Bacillales;Bacillales_IncertaeSedisXII;Exiguobacterium;Exiguobacterium sibiricum
+S002289025|Bacteria;Firmicutes;Bacilli;Bacillales;Bacillales_IncertaeSedisXII;Exiguobacterium;Exiguobacterium sibiricum
+S002291011|Bacteria;Firmicutes;Bacilli;Bacillales;Bacillales_IncertaeSedisXII;Exiguobacterium;Exiguobacterium sibiricum
+>2
+S002290271|Bacteria;Firmicutes;Clostridia;Thermoanaerobacterales;Thermoanaerobacteraceae;Caldanaerobacter;Caldanaerobacter subterraneus
+S001328131|Bacteria;Firmicutes;Clostridia;Thermoanaerobacterales;Thermoanaerobacteraceae;Caldanaerobacter;Caldanaerobacter subterraneus
+>1
+S000539075|Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae1;Clostridiumsensustricto;Clostridium sardiniense
+>2
+S000629153|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Micrococcineae;Microbacteriaceae;Leucobacter;Leucobacter luti
+S000531003|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Micrococcineae;Microbacteriaceae;Leucobacter;Leucobacter aridicollis
+>1
+S000003368|Bacteria;"Proteobacteria";Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingobium;Sphingobium abikonense
+>1
+S000374970|Bacteria;Firmicutes;Clostridia;Clostridiales;Peptostreptococcaceae;Sporacetigenium;Sporacetigenium mesophilum
+>1
+S000381770|Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;Lactobacillus collinoides
+>8
+S002289862|Bacteria;"Proteobacteria";Betaproteobacteria;Neisseriales;Neisseriaceae;Chromobacterium;Chromobacterium violaceum
+S002289770|Bacteria;"Proteobacteria";Betaproteobacteria;Neisseriales;Neisseriaceae;Chromobacterium;Chromobacterium violaceum
+S002289791|Bacteria;"Proteobacteria";Betaproteobacteria;Neisseriales;Neisseriaceae;Chromobacterium;Chromobacterium violaceum
+S002289626|Bacteria;"Proteobacteria";Betaproteobacteria;Neisseriales;Neisseriaceae;Chromobacterium;Chromobacterium violaceum
+S002288516|Bacteria;"Proteobacteria";Betaproteobacteria;Neisseriales;Neisseriaceae;Chromobacterium;Chromobacterium violaceum
+S002289926|Bacteria;"Proteobacteria";Betaproteobacteria;Neisseriales;Neisseriaceae;Chromobacterium;Chromobacterium violaceum
+S002287308|Bacteria;"Proteobacteria";Betaproteobacteria;Neisseriales;Neisseriaceae;Chromobacterium;Chromobacterium violaceum
+S002291264|Bacteria;"Proteobacteria";Betaproteobacteria;Neisseriales;Neisseriaceae;Chromobacterium;Chromobacterium violaceum
+>1
+S000414117|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Bifidobacteriales;Bifidobacteriaceae;Bifidobacterium;Bifidobacterium longum
+>1
+S001794056|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Frankineae;Geodermatophilaceae;Blastococcus;Blastococcus saxobsidens
+>1
+S000006985|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Pseudonocardineae;Pseudonocardiaceae;Lentzea;Lentzea violacea
+>1
+S000010364|Bacteria;"Proteobacteria";Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas luteola
+>1
+S001329595|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Micrococcineae;Intrasporangiaceae;Terrabacter;Terrabacter carboxydivorans
+>1
+S002290817|Bacteria;"Actinobacteria";Actinobacteria;Rubrobacteridae;Solirubrobacterales;Conexibacteraceae;Conexibacter;Conexibacter woesei
+>1
+S001171509|Bacteria;"Proteobacteria";Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas lini
+>1
+S000384110|Bacteria;"Proteobacteria";Betaproteobacteria;Burkholderiales;Comamonadaceae;Diaphorobacter;Diaphorobacter nitroreducens
+>1
+S001328273|Bacteria;Firmicutes;Clostridia;Clostridiales;IncertaeSedisIII;Fervidicola;Fervidicola ferrireducens
+>1
+S000005601|Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;Lactobacillus perolens
+>1
+S000251111|Bacteria;"Proteobacteria";Deltaproteobacteria;Desulfovibrionales;Desulfovibrionaceae;Desulfovibrio;Desulfovibrio idahonensis
+>1
+S000389919|Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;Lactobacillus vaginalis
+>1
+S000531002|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Micrococcineae;Microbacteriaceae;Leucobacter;Leucobacter chromiireducens
+>5
+S002289757|Bacteria;Firmicutes;Clostridia;Clostridiales;Peptococcaceae1;Desulfitobacterium;Desulfitobacterium hafniense
+S002291109|Bacteria;Firmicutes;Clostridia;Clostridiales;Peptococcaceae1;Desulfitobacterium;Desulfitobacterium hafniense
+S002289165|Bacteria;Firmicutes;Clostridia;Clostridiales;Peptococcaceae1;Desulfitobacterium;Desulfitobacterium hafniense
+S002291072|Bacteria;Firmicutes;Clostridia;Clostridiales;Peptococcaceae1;Desulfitobacterium;Desulfitobacterium hafniense
+S002289070|Bacteria;Firmicutes;Clostridia;Clostridiales;Peptococcaceae1;Desulfitobacterium;Desulfitobacterium hafniense
+>1
+S000009256|Bacteria;"Proteobacteria";Betaproteobacteria;Burkholderiales;Burkholderiales_incertae_sedis;Leptothrix;Leptothrix mobilis
+>1
+S000018694|Bacteria;"Proteobacteria";Betaproteobacteria;Burkholderiales;Burkholderiaceae;Limnobacter;Limnobacter thiooxidans
+>1
+S000539474|Bacteria;"Proteobacteria";Betaproteobacteria;Burkholderiales;Comamonadaceae;Malikia;Malikia granosa
+>1
+S000269325|Bacteria;"Proteobacteria";Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas chlororaphis
+>1
+S000804995|Bacteria;"Proteobacteria";Gammaproteobacteria;Oceanospirillales;Halomonadaceae;Modicisalibacter;Modicisalibacter tunisiensis
+>1
+S001094811|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Mycobacteriaceae;Mycobacterium;Mycobacterium senuense
+>1
+S000254205|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Streptosporangineae;Thermomonosporaceae;Actinomadura;Actinomadura formosensis
+>1
+S000429096|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Pseudonocardineae;Pseudonocardiaceae;Saccharothrix;Saccharothrix espanaensis
+>1
+S000429408|Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Robinsoniella;Robinsoniella peoriensis
+>1
+S000020603|Bacteria;"Proteobacteria";Betaproteobacteria;Burkholderiales;Comamonadaceae;Acidovorax;Acidovorax defluvii
+>1
+S000528024|Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae1;Bacillus;Bacillus oleronius
+>14
+S002289601|Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae1;Clostridiumsensustricto;Clostridium acetobutylicum
+S002290883|Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae1;Clostridiumsensustricto;Clostridium acetobutylicum
+S000628106|Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae1;Clostridiumsensustricto;Clostridium acetobutylicum
+S000628120|Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae1;Clostridiumsensustricto;Clostridium acetobutylicum
+S000628124|Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae1;Clostridiumsensustricto;Clostridium acetobutylicum
+S000628127|Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae1;Clostridiumsensustricto;Clostridium acetobutylicum
+S000628110|Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae1;Clostridiumsensustricto;Clostridium acetobutylicum
+S000628116|Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae1;Clostridiumsensustricto;Clostridium acetobutylicum
+S000628114|Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae1;Clostridiumsensustricto;Clostridium acetobutylicum
+S002289356|Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae1;Clostridiumsensustricto;Clostridium acetobutylicum
+S002287075|Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae1;Clostridiumsensustricto;Clostridium acetobutylicum
+S002289332|Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae1;Clostridiumsensustricto;Clostridium acetobutylicum
+S002287157|Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae1;Clostridiumsensustricto;Clostridium acetobutylicum
+S002290264|Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae1;Clostridiumsensustricto;Clostridium acetobutylicum
+>2
+S000768588|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Bifidobacteriales;Bifidobacteriaceae;Bifidobacterium;Bifidobacterium adolescentis
+S002289304|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Bifidobacteriales;Bifidobacteriaceae;Bifidobacterium;Bifidobacterium adolescentis
+>1
+S000000738|Bacteria;Firmicutes;Clostridia;Clostridiales;Veillonellaceae;Anaerovibrio;Anaerovibrio lipolyticus
+>1
+S000539659|Bacteria;"Proteobacteria";Gammaproteobacteria;"Enterobacteriales";Enterobacteriaceae;Enterobacter;Enterobacter ludwigii
+>1
+S000015049|Bacteria;"Proteobacteria";Betaproteobacteria;Rhodocyclales;Rhodocyclaceae;Zoogloea;Zoogloea ramigera
+>1
+S000247787|Bacteria;"Deinococcus-Thermus";Deinococci;Deinococcales;Deinococcaceae;Deinococcus;Deinococcus saxicola
+>8
+S002287861|Bacteria;"Proteobacteria";Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;Rhodospirillum;Rhodospirillum rubrum
+S000624668|Bacteria;"Proteobacteria";Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;Rhodospirillum;Rhodospirillum rubrum
+S000624663|Bacteria;"Proteobacteria";Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;Rhodospirillum;Rhodospirillum rubrum
+S000624666|Bacteria;"Proteobacteria";Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;Rhodospirillum;Rhodospirillum rubrum
+S000624661|Bacteria;"Proteobacteria";Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;Rhodospirillum;Rhodospirillum rubrum
+S002290168|Bacteria;"Proteobacteria";Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;Rhodospirillum;Rhodospirillum rubrum
+S002290100|Bacteria;"Proteobacteria";Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;Rhodospirillum;Rhodospirillum rubrum
+S002289139|Bacteria;"Proteobacteria";Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;Rhodospirillum;Rhodospirillum rubrum
+>1
+S000624673|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Pseudonocardineae;Pseudonocardiaceae;Amycolatopsis;Amycolatopsis halotolerans
+>1
+S000434395|Bacteria;"Proteobacteria";Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Paracoccus;Paracoccus aminophilus
+>1
+S000484619|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Streptomycineae;Streptomycetaceae;Streptomyces;Streptomyces ferralitis
+>1
+S000618647|Bacteria;"Proteobacteria";Gammaproteobacteria;Thiotrichales;Francisellaceae;Francisella;Francisella tularensis
+>1
+S000129978|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Streptomycineae;Streptomycetaceae;Streptomyces;Streptomyces phaeoluteichromatogenes
+>2
+S000925951|Bacteria;"Chloroflexi";"Chloroflexi";"Chloroflexales";"Chloroflexaceae";Roseiflexus;Roseiflexus castenholzii
+S002289054|Bacteria;"Chloroflexi";"Chloroflexi";"Chloroflexales";"Chloroflexaceae";Roseiflexus;Roseiflexus castenholzii
+>1
+S000007744|Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;ClostridiumXlVa;Clostridium celerecrescens
+>1
+S000012027|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Streptomycineae;Streptomycetaceae;Streptomyces;Streptomyces phaeoluteigriseus
+>1
+S001610742|Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus;Streptococcus ursoris
+>1
+S000091563|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Mycobacteriaceae;Mycobacterium;Mycobacterium marinum
+>1
+S002288937|Bacteria;"Chloroflexi";"Chloroflexi";"Chloroflexales";"Chloroflexaceae";Chloroflexus;Chloroflexus aggregans
+>1
+S001353127|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Corynebacteriaceae;Corynebacterium;Corynebacterium pilbarense
+>1
+S002304637|Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;ClostridiumIII;Clostridium termitidis
+>4
+S001020384|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Cuscuta obtusiflora
+S001020381|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Cuscuta obtusiflora
+S001020380|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Cuscuta gronovii
+S001020377|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Cuscuta gronovii
+>1
+S000727742|Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus;Streptococcus orisuis
+>1
+S000002018|Bacteria;"Proteobacteria";Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas fluorescens
+>1
+S000437650|Bacteria;"Proteobacteria";Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Rhizobium;Rhizobium vitis
+>2
+S000618924|Bacteria;"Proteobacteria";Betaproteobacteria;Nitrosomonadales;Nitrosomonadaceae;Nitrosospira;Nitrosospira multiformis
+S002291018|Bacteria;"Proteobacteria";Betaproteobacteria;Nitrosomonadales;Nitrosomonadaceae;Nitrosospira;Nitrosospira multiformis
+>1
+S000002128|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Pseudonocardineae;Pseudonocardiaceae;Pseudonocardia;Pseudonocardia yunnanensis
+>1
+S000018932|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Streptosporangineae;Streptosporangiaceae;Nonomuraea;Nonomuraea longicatena
+>1
+S000390782|Bacteria;"Proteobacteria";Epsilonproteobacteria;Campylobacterales;Helicobacteraceae;Helicobacter;Helicobacter cetorum
+>2
+S000439347|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Streptomycineae;Streptomycetaceae;Streptomyces;Streptomyces neyagawaensis
+S000439345|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Streptomycineae;Streptomycetaceae;Streptomyces;Streptomyces diastatochromogenes
+>1
+S000544655|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Micrococcineae;Microbacteriaceae;Leucobacter;Leucobacter iarius
+>1
+S000388712|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Streptosporangineae;Nocardiopsaceae;Streptomonospora;Streptomonospora salina
+>1
+S000011919|Bacteria;Firmicutes;Bacilli;Bacillales;Planococcaceae;Sporosarcina;Sporosarcina globispora
+>1
+S001153179|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Tsukamurellaceae;Tsukamurella;Tsukamurella carboxydivorans
+>1
+S000381199|Bacteria;"Deinococcus-Thermus";Deinococci;Thermales;Thermaceae;Thermus;Thermus thermophilus
+>1
+S000429097|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Pseudonocardineae;Pseudonocardiaceae;Lechevalieria;Lechevalieria flava
+>1
+S000390924|Bacteria;"Proteobacteria";Gammaproteobacteria;Alteromonadales;Pseudoalteromonadaceae;Pseudoalteromonas;Pseudoalteromonas flavipulchra
+>1
+S000394066|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Nocardiaceae;Nocardia;Nocardia otitidiscaviarum
+>5
+S002289758|Bacteria;"Proteobacteria";Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Xanthomonas;Xanthomonas campestris
+S000389072|Bacteria;"Proteobacteria";Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Xanthomonas;Xanthomonas cynarae
+S001328144|Bacteria;"Proteobacteria";Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Xanthomonas;Xanthomonas campestris
+S001328142|Bacteria;"Proteobacteria";Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Xanthomonas;Xanthomonas campestris
+S002291099|Bacteria;"Proteobacteria";Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Xanthomonas;Xanthomonas campestris
+>1
+S000721046|Bacteria;"Proteobacteria";Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Rhizobium;Rhizobium radiobacter
+>1
+S000390053|Bacteria;"Proteobacteria";Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Rhodobaca;Rhodobaca bogoriensis
+>1
+S001613686|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Pseudonocardineae;Pseudonocardiaceae;Actinoalloteichus;Actinoalloteichus nanshanensis
+>1
+S000430917|Bacteria;"Proteobacteria";Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Alkanindiges;Alkanindiges illinoisensis
+>1
+S000444593|Bacteria;"Proteobacteria";Alphaproteobacteria;Rhizobiales;Phyllobacteriaceae;Phyllobacterium;Phyllobacterium trifolii
+>1
+S000103956|Bacteria;"Proteobacteria";Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingopyxis;Sphingopyxis witflariensis
+>1
+S000926211|Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Howardella;Howardella ureilytica
+>1
+S001168699|Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;Lactobacillus salivarius
+>2
+S002291301|Bacteria;"Proteobacteria";Alphaproteobacteria;Rhizobiales;Bradyrhizobiaceae;Nitrobacter;Nitrobacter winogradskyi
+S000598367|Bacteria;"Proteobacteria";Alphaproteobacteria;Rhizobiales;Bradyrhizobiaceae;Nitrobacter;Nitrobacter winogradskyi
+>1
+S000015594|Bacteria;"Proteobacteria";Alphaproteobacteria;Caulobacterales;Caulobacteraceae;Brevundimonas;Brevundimonas diminuta
+>1
+S000429103|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Pseudonocardineae;Pseudonocardiaceae;Saccharothrix;Saccharothrix texasensis
+>1
+S000414341|Bacteria;Firmicutes;Clostridia;Thermoanaerobacterales;Thermoanaerobacteraceae;Thermoanaerobacter;Thermoanaerobacter acetoethylicus
+>1
+S000000315|Bacteria;"Proteobacteria";Gammaproteobacteria;Oceanospirillales;Halomonadaceae;Halomonas;Halomonas subglaciescola
+>2
+S001152280|Bacteria;"Chlorobi";"Chlorobia";Chlorobiales;Chlorobiaceae;Prosthecochloris;Prosthecochloris aestuarii
+S002290818|Bacteria;"Chlorobi";"Chlorobia";Chlorobiales;Chlorobiaceae;Prosthecochloris;Prosthecochloris aestuarii
+>1
+S000628388|Bacteria;"Proteobacteria";Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Roseovarius;Roseovarius crassostreae
+>1
+S000543967|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Mycobacteriaceae;Mycobacterium;Mycobacterium florentinum
+>1
+S001015727|Bacteria;"Proteobacteria";Alphaproteobacteria;Rhizobiales;Rhodobiaceae;Afifella;Afifella pfennigii
+>1
+S000104183|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Mycobacteriaceae;Mycobacterium;Mycobacterium holsaticum
+>1
+S000461440|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Mycobacteriaceae;Mycobacterium;Mycobacterium nebraskense
+>2
+S001020470|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Oenothera argillicola
+S001020467|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Oenothera argillicola
+>1
+S000274027|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Nocardiaceae;Millisia;Millisia brevis
+>1
+S000382781|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Streptomycineae;Streptomycetaceae;Streptomyces;Streptomyces turgidiscabies
+>2
+S000529044|Bacteria;Firmicutes;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus aureus
+S000529046|Bacteria;Firmicutes;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus aureus
+>1
+S000825296|Bacteria;"Proteobacteria";Gammaproteobacteria;Oceanospirillales;Halomonadaceae;Halomonas;Halomonas sabkhae
+>3
+S002289834|Bacteria;"Dictyoglomi";"Dictyoglomia";"Dictyoglomales";"Dictyoglomaceae";Dictyoglomus;Dictyoglomus turgidum
+S000010022|Bacteria;"Dictyoglomi";"Dictyoglomia";"Dictyoglomales";"Dictyoglomaceae";Dictyoglomus;Dictyoglomus thermophilum
+S002287070|Bacteria;"Dictyoglomi";"Dictyoglomia";"Dictyoglomales";"Dictyoglomaceae";Dictyoglomus;Dictyoglomus turgidum
+>1
+S001549876|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Micrococcineae;Microbacteriaceae;Agromyces;Agromyces bauzanensis
+>1
+S000002717|Bacteria;Firmicutes;Bacilli;Lactobacillales;Enterococcaceae;Enterococcus;Enterococcus faecium
+>2
+S001020361|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Citrus sinensis
+S001020364|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Citrus sinensis
+>1
+S002350843|Bacteria;"Bacteroidetes";"Bacteroidia";"Bacteroidales";Bacteroidaceae;Acetomicrobium;Acetomicrobium faecale
+>12
+S000528404|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Streptomycineae;Streptomycetaceae;Streptomyces;Streptomyces avermitilis
+S000528409|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Streptomycineae;Streptomycetaceae;Streptomyces;Streptomyces avermitilis
+S000528407|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Streptomycineae;Streptomycetaceae;Streptomyces;Streptomyces avermitilis
+S000528406|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Streptomycineae;Streptomycetaceae;Streptomyces;Streptomyces avermitilis
+S000528413|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Streptomycineae;Streptomycetaceae;Streptomyces;Streptomyces avermitilis
+S000528411|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Streptomycineae;Streptomycetaceae;Streptomyces;Streptomyces avermitilis
+S002288769|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Streptomycineae;Streptomycetaceae;Streptomyces;Streptomyces avermitilis
+S002288643|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Streptomycineae;Streptomycetaceae;Streptomyces;Streptomyces avermitilis
+S002289992|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Streptomycineae;Streptomycetaceae;Streptomyces;Streptomyces avermitilis
+S002287307|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Streptomycineae;Streptomycetaceae;Streptomyces;Streptomyces avermitilis
+S002290074|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Streptomycineae;Streptomycetaceae;Streptomyces;Streptomyces avermitilis
+S002289407|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Streptomycineae;Streptomycetaceae;Streptomyces;Streptomyces avermitilis
+>1
+S000539437|Bacteria;Firmicutes;Clostridia;Clostridiales;Peptococcaceae1;Desulfosporosinus;Desulfosporosinus lacus
+>1
+S000000390|Bacteria;"Proteobacteria";Alphaproteobacteria;Rhodospirillales;Acetobacteraceae;Gluconacetobacter;Gluconacetobacter intermedius
+>3
+S000271817|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Streptomycineae;Streptomycetaceae;Streptomyces;Streptomyces olivaceiscleroticus
+S000270584|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Streptomycineae;Streptomycetaceae;Streptomyces;Streptomyces niger
+S000271004|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Streptomycineae;Streptomycetaceae;Streptomyces;Streptomyces purpurogeneiscleroticus
+>1
+S001576671|Bacteria;"Proteobacteria";Alphaproteobacteria;Alphaproteobacteria_incertae_sedis;Breoghania;Breoghania corrubedonensis
+>1
+S002287829|Bacteria;"Actinobacteria";Actinobacteria;Coriobacteridae;Coriobacteriales;"Coriobacterineae";Coriobacteriaceae;Atopobium;Atopobium parvulum
+>1
+S000841544|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Streptosporangineae;Streptosporangiaceae;Nonomuraea;Nonomuraea bangladeshensis
+>1
+S000607716|Bacteria;"Proteobacteria";Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia;Burkholderia rhizoxinica
+>1
+S000388249|Bacteria;"Proteobacteria";Gammaproteobacteria;Methylococcales;Methylococcaceae;Methylobacter;Methylobacter psychrophilus
+>1
+S000014269|Bacteria;"Proteobacteria";Betaproteobacteria;Burkholderiales;Oxalobacteraceae;Herbaspirillum;Herbaspirillum seropedicae
+>1
+S000270574|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Streptomycineae;Streptomycetaceae;Streptomyces;Streptomyces griseocarneus
+>2
+S001020344|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Ceratophyllum demersum
+S001020347|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Ceratophyllum demersum
+>2
+S001020335|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Buxus microphylla
+S001020332|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Buxus microphylla
+>1
+S000483697|Bacteria;Firmicutes;Bacilli;Bacillales;Paenibacillaceae1;Paenibacillus;Paenibacillus turicensis
+>1
+S001575468|Bacteria;"Bacteroidetes";"Sphingobacteria";"Sphingobacteriales";Sphingobacteriaceae;Pedobacter;Pedobacter bauzanensis
+>1
+S000334571|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Mycobacteriaceae;Mycobacterium;Mycobacterium vanbaalenii
+>1
+S000015853|Bacteria;"Proteobacteria";Betaproteobacteria;Burkholderiales;Alcaligenaceae;Bordetella;Bordetella trematum
+>2
+S000531427|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Physcomitrella patens subsp. patens
+S000531424|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Physcomitrella patens subsp. patens
+>1
+S000381289|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Streptomycineae;Streptomycetaceae;Streptomyces;Streptomyces subrutilus
+>1
+S000473520|Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;Lactobacillus kalixensis
+>1
+S000140808|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Pseudonocardineae;Pseudonocardiaceae;Amycolatopsis;Amycolatopsis sulphurea
+>1
+S000356243|Bacteria;"Tenericutes";Mollicutes;Entomoplasmatales;Spiroplasmataceae;Spiroplasma;Spiroplasma leptinotarsae
+>1
+S000414447|Bacteria;"Proteobacteria";Deltaproteobacteria;Desulfovibrionales;Desulfovibrionaceae;Lawsonia;Lawsonia intracellularis
+>1
+S000416815|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Mycobacteriaceae;Mycobacterium;Mycobacterium psychrotolerans
+>1
+S000262393|Bacteria;"Proteobacteria";Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Frateuria;Frateuria aurantia
+>1
+S000007776|Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;Lactobacillus amylolyticus
+>1
+S001097410|Bacteria;"Spirochaetes";Spirochaetes;Spirochaetales;Spirochaetaceae;Spirochaeta;Spirochaeta caldaria
+>1
+S000006799|Bacteria;"Proteobacteria";Gammaproteobacteria;Oceanospirillales;Halomonadaceae;Halomonas;Halomonas venusta
+>2
+S001020450|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Lolium perenne
+S001020447|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Lolium perenne
+>1
+S000805548|Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae1;Clostridiumsensustricto;Clostridium sulfidigenes
+>1
+S000127286|Bacteria;Firmicutes;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus condimenti
+>1
+S002290712|Bacteria;"Actinobacteria";Actinobacteria;Rubrobacteridae;Rubrobacterales;"Rubrobacterineae";Rubrobacteraceae;Rubrobacter;Rubrobacter xylanophilus
+>6
+S002290528|Bacteria;"Proteobacteria";Gammaproteobacteria;Thiotrichales;Francisellaceae;Francisella;Francisella tularensis
+S001094562|Bacteria;"Proteobacteria";Gammaproteobacteria;Thiotrichales;Francisellaceae;Francisella;Francisella tularensis
+S001094565|Bacteria;"Proteobacteria";Gammaproteobacteria;Thiotrichales;Francisellaceae;Francisella;Francisella tularensis
+S001094567|Bacteria;"Proteobacteria";Gammaproteobacteria;Thiotrichales;Francisellaceae;Francisella;Francisella tularensis
+S002289431|Bacteria;"Proteobacteria";Gammaproteobacteria;Thiotrichales;Francisellaceae;Francisella;Francisella tularensis
+S002288043|Bacteria;"Proteobacteria";Gammaproteobacteria;Thiotrichales;Francisellaceae;Francisella;Francisella tularensis
+>1
+S001550744|Bacteria;"Bacteroidetes";"Sphingobacteria";"Sphingobacteriales";Cytophagaceae;Dyadobacter;Dyadobacter psychrophilus
+>2
+S001020429|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Lemna minor
+S001020432|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Lemna minor
+>1
+S000394593|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Pseudonocardineae;Pseudonocardiaceae;Prauserella;Prauserella halophila
+>1
+S000471772|Bacteria;"Proteobacteria";Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Thalassobacter;Thalassobacter stenotrophicus
+>1
+S000147123|Bacteria;Firmicutes;Clostridia;Clostridiales;Veillonellaceae;Sporomusa;Sporomusa aerivorans
+>8
+S000641852|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Atropa belladonna
+S000641855|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Atropa belladonna
+S000641305|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Solanum bulbocastanum
+S000641302|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Solanum bulbocastanum
+S000605923|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Nicotiana tabacum
+S000605926|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Nicotiana tabacum
+S001020373|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Cuscuta exaltata
+S001020376|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Cuscuta exaltata
+>1
+S001044889|Bacteria;"Proteobacteria";Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingomonas;Sphingomonas changbaiensis
+>1
+S000388579|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Mycobacteriaceae;Mycobacterium;Mycobacterium heckeshornense
+>1
+S000009280|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Propionibacterineae;Propionibacteriaceae;Propionimicrobium;Propionimicrobium lymphophilum
+>1
+S000357416|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Streptomycineae;Streptomycetaceae;Streptomyces;Streptomyces hebeiensis
+>1
+S000247785|Bacteria;"Deinococcus-Thermus";Deinococci;Deinococcales;Deinococcaceae;Deinococcus;Deinococcus frigens
+>1
+S000994709|Bacteria;Firmicutes;Clostridia;Clostridiales;Veillonellaceae;Megamonas;Megamonas funiformis
+>3
+S000394051|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Nocardiaceae;Nocardia;Nocardia cummidelens
+S000394050|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Nocardiaceae;Nocardia;Nocardia soli
+S000394049|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Nocardiaceae;Nocardia;Nocardia salmonicida
+>1
+S000461140|Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiales_IncertaeSedisIV;Mahella;Mahella australiensis
+>1
+S000003153|Bacteria;"Proteobacteria";Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas putida
+>1
+S002350827|Bacteria;Firmicutes;Clostridia;Clostridiales;Syntrophomonadaceae;Thermohydrogenium;Thermohydrogenium kirishiense
+>1
+S001793984|Bacteria;"Proteobacteria";Betaproteobacteria;Burkholderiales;Burkholderiaceae;Cupriavidus;Cupriavidus pampae
+>1
+S000438917|Bacteria;"Proteobacteria";Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia;Burkholderia cepacia
+>1
+S000544085|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Micrococcineae;Micrococcaceae;Arthrobacter;Arthrobacter castelli
+>2
+S000143178|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Streptomycineae;Streptomycetaceae;Streptomyces;Streptomyces coelescens
+S000143706|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Streptomycineae;Streptomycetaceae;Streptomyces;Streptomyces violaceolatus
+>1
+S000390460|Bacteria;"Proteobacteria";Alphaproteobacteria;Rhizobiales;Bradyrhizobiaceae;Bosea;Bosea minatitlanensis
+>2
+S001020397|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Dioscorea elephantipes
+S001020400|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Dioscorea elephantipes
+>1
+S002761931|Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae1;Clostridiumsensustricto;Clostridium limosum
+>1
+S002291033|Bacteria;"Proteobacteria";Alphaproteobacteria;Rhizobiales;Bradyrhizobiaceae;Oligotropha;Oligotropha carboxidovorans
+>4
+S000650862|Bacteria;"Proteobacteria";Betaproteobacteria;Burkholderiales;Comamonadaceae;Albidiferax;Albidiferax ferrireducens
+S000650864|Bacteria;"Proteobacteria";Betaproteobacteria;Burkholderiales;Comamonadaceae;Albidiferax;Albidiferax ferrireducens
+S002287898|Bacteria;"Proteobacteria";Betaproteobacteria;Burkholderiales;Comamonadaceae;Albidiferax;Albidiferax ferrireducens
+S002287484|Bacteria;"Proteobacteria";Betaproteobacteria;Burkholderiales;Comamonadaceae;Albidiferax;Albidiferax ferrireducens
+>1
+S000322431|Bacteria;"Proteobacteria";Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Pseudoxanthomonas;Pseudoxanthomonas mexicana
+>1
+S000262836|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Streptomycineae;Streptomycetaceae;Kitasatospora;Streptomyces aureofaciens
+>1
+S000381784|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Bifidobacteriales;Bifidobacteriaceae;Bifidobacterium;Bifidobacterium breve
+>1
+S000021242|Bacteria;"Proteobacteria";Gammaproteobacteria;Oceanospirillales;Halomonadaceae;Halomonas;Halomonas halmophila
+>1
+S000586597|Bacteria;"Proteobacteria";Gammaproteobacteria;Oceanospirillales;Oceanospirillales_incertae_sedis;Salicola;Salicola salis
+>1
+S000394045|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Nocardiaceae;Nocardia;Nocardia pseudovaccinii
+>1
+S000270785|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Streptomycineae;Streptomycetaceae;Streptomyces;Streptomyces violens
+>1
+S000129976|Bacteria;"Proteobacteria";Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Stenotrophomonas;Stenotrophomonas rhizophila
+>1
+S000485192|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Mycobacteriaceae;Mycobacterium;Mycobacterium cosmeticum
+>1
+S000126685|Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;Lactobacillus mindensis
+>1
+S000260209|Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae1;Clostridiumsensustricto;Clostridium putrificum
+>1
+S000012715|Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnospiracea_incertae_sedis;Eubacterium cellulosolvens
+>2
+S001020368|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Coffea arabica
+S001020365|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Coffea arabica
+>1
+S000381288|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Streptomycineae;Streptomycetaceae;Streptomyces;Streptomyces caelestis
+>1
+S001020500|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Pinus koraiensis
+>1
+S000403825|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Tsukamurellaceae;Tsukamurella;Tsukamurella tyrosinosolvens
+>1
+S000014966|Bacteria;Firmicutes;Bacilli;Lactobacillales;Enterococcaceae;Enterococcus;Enterococcus malodoratus
+>1
+S000319460|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Nocardiaceae;Nocardia;Nocardia arthritidis
+>2
+S002290651|Bacteria;"Verrucomicrobia";Opitutae;Puniceicoccales;Puniceicoccaceae;Coraliomargarita;Coraliomargarita akajimensis DSM 45221
+S002290235|Bacteria;"Verrucomicrobia";Opitutae;Puniceicoccales;Puniceicoccaceae;Coraliomargarita;Coraliomargarita akajimensis DSM 45221
+>1
+S000416204|Bacteria;"Proteobacteria";Deltaproteobacteria;Desulfovibrionales;Desulfovibrionaceae;Desulfovibrio;Desulfovibrio burkinensis
+>13
+S002288150|Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae1;Bacillus;Bacillus cereus
+S002289583|Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae1;Bacillus;Bacillus cereus
+S002289486|Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae1;Bacillus;Bacillus cereus
+S002289459|Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae1;Bacillus;Bacillus cereus
+S002288778|Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae1;Bacillus;Bacillus cereus
+S002287574|Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae1;Bacillus;Bacillus cereus
+S002290085|Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae1;Bacillus;Bacillus cereus
+S002291145|Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae1;Bacillus;Bacillus cereus
+S002287229|Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae1;Bacillus;Bacillus cereus
+S002290129|Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae1;Bacillus;Bacillus cereus
+S002290220|Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae1;Bacillus;Bacillus cereus
+S002289146|Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae1;Bacillus;Bacillus cereus
+S002291031|Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae1;Bacillus;Bacillus cereus
+>1
+S000539630|Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;Lactobacillus paracollinoides
+>1
+S000629154|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Micrococcineae;Microbacteriaceae;Leucobacter;Leucobacter alluvii
+>1
+S000397967|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Bifidobacteriales;Bifidobacteriaceae;Bifidobacterium;Bifidobacterium thermacidophilum
+>1
+S000139867|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Pseudonocardineae;Pseudonocardiaceae;Amycolatopsis;Amycolatopsis coloradensis
+>1
+S000002743|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Mycobacteriaceae;Mycobacterium;Mycobacterium elephantis
+>1
+S002350757|Bacteria;Firmicutes;Clostridia;Clostridiales;IncertaeSedisXI;ClostridiumXII;Clostridium purinilyticum
+>1
+S000429087|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Pseudonocardineae;Pseudonocardiaceae;Actinokineospora;Actinokineospora globicatena
+>1
+S000722658|Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae1;Proteiniclasticum;Proteiniclasticum ruminis
+>1
+S000390284|Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;ClostridiumXlVa;Clostridium scindens
+>1
+S000013989|Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Pediococcus;Pediococcus pentosaceus
+>4
+S002290646|Bacteria;"Proteobacteria";Gammaproteobacteria;Chromatiales;Ectothiorhodospiraceae;Halorhodospira;Halorhodospira halophila
+S000775705|Bacteria;"Proteobacteria";Gammaproteobacteria;Chromatiales;Ectothiorhodospiraceae;Halorhodospira;Halorhodospira halophila
+S000775703|Bacteria;"Proteobacteria";Gammaproteobacteria;Chromatiales;Ectothiorhodospiraceae;Halorhodospira;Halorhodospira halophila
+S002287274|Bacteria;"Proteobacteria";Gammaproteobacteria;Chromatiales;Ectothiorhodospiraceae;Halorhodospira;Halorhodospira halophila
+>1
+S000428852|Bacteria;"Proteobacteria";Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Silicibacter;Silicibacter pomeroyi
+>1
+S000438493|Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiales_IncertaeSedisIII;Caldicellulosiruptor;Caldicellulosiruptor owensensis
+>2
+S002290495|Bacteria;"Chlorobi";"Chlorobia";Chlorobiales;Chlorobiaceae;Chlorobium;Chlorobium luteolum
+S002290602|Bacteria;"Chlorobi";"Chlorobia";Chlorobiales;Chlorobiaceae;Chlorobium;Chlorobium luteolum
+>1
+S000429234|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Streptosporangineae;Thermomonosporaceae;Thermomonospora;Thermomonospora chromogena
+>1
+S000017522|Bacteria;"Bacteroidetes";"Sphingobacteria";"Sphingobacteriales";Cytophagaceae;Hymenobacter;Hymenobacter gelipurpurascens
+>1
+S000428086|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Pseudonocardineae;Pseudonocardiaceae;Amycolatopsis;Amycolatopsis alba
+>1
+S000393517|Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;Lactobacillus pantheris
+>1
+S001239100|Bacteria;"Proteobacteria";Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Psychrobacter;Psychrobacter fulvigenes
+>1
+S000004306|Bacteria;Firmicutes;Clostridia;Clostridiales;Peptococcaceae2;Desulfotomaculum;Desulfotomaculum acetoxidans
+>1
+S000435928|Bacteria;Firmicutes;Clostridia;Halanaerobiales;Halanaerobiaceae;Halanaerobium;Halanaerobium lacusrosei
+>1
+S000356593|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Mycobacteriaceae;Mycobacterium;Mycobacterium saskatchewanense
+>1
+S000485442|Bacteria;"Proteobacteria";Alphaproteobacteria;Rhizobiales;Brucellaceae;Ochrobactrum;Ochrobactrum lupini
+>1
+S000400179|Bacteria;"Proteobacteria";Gammaproteobacteria;Alteromonadales;Alteromonadaceae;Marinobacter;Marinobacter excellens
+>14
+S000386909|Bacteria;Firmicutes;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus succinus
+S002290548|Bacteria;Firmicutes;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus saprophyticus
+S000109780|Bacteria;Firmicutes;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus succinus
+S001610654|Bacteria;Firmicutes;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus saprophyticus
+S001610655|Bacteria;Firmicutes;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus saprophyticus
+S001610657|Bacteria;Firmicutes;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus saprophyticus
+S002287916|Bacteria;Firmicutes;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus saprophyticus
+S002287302|Bacteria;Firmicutes;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus saprophyticus
+S000571651|Bacteria;Firmicutes;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus saprophyticus
+S000571653|Bacteria;Firmicutes;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus saprophyticus
+S000571655|Bacteria;Firmicutes;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus saprophyticus
+S002290053|Bacteria;Firmicutes;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus saprophyticus
+S002287259|Bacteria;Firmicutes;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus saprophyticus
+S002291094|Bacteria;Firmicutes;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus saprophyticus
+>1
+S000009787|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Streptomycineae;Streptomycetaceae;Streptomyces;Streptomyces puniciscabiei
+>2
+S000651000|Bacteria;"Proteobacteria";Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas syringae
+S000146512|Bacteria;"Proteobacteria";Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas congelans
+>1
+S000385188|Bacteria;"Proteobacteria";Alphaproteobacteria;Rhizobiales;Rhodobiaceae;Afifella;Rhodopseudomonas julia
+>1
+S000389735|Bacteria;Firmicutes;Clostridia;Thermoanaerobacterales;Thermoanaerobacteraceae;Thermoanaerobacter;Thermoanaerobacter sulfurigignens
+>2
+S000529298|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Marchantia polymorpha
+S000529295|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Marchantia polymorpha
+>1
+S000770653|Bacteria;"Proteobacteria";Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;Azospirillum;Azospirillum rugosum
+>1
+S000428900|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Nocardiaceae;Gordonia;Gordonia desulfuricans
+>1
+S000414747|Bacteria;"Proteobacteria";Gammaproteobacteria;Thiotrichales;Thiotrichales_incertae_sedis;Caedibacter;Caedibacter caryophilus
+>2
+S000690662|Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;Lactobacillus delbrueckii
+S002287621|Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;Lactobacillus delbrueckii
+>1
+S000011249|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Propionibacterineae;Propionibacteriaceae;Propionibacterium;Propionibacterium freudenreichii
+>1
+S000435157|Bacteria;Firmicutes;Clostridia;Clostridiales;Peptococcaceae2;Desulfotomaculum;Desulfotomaculum solfataricum
+>2
+S001020499|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Phaseolus vulgaris
+S001020496|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Phaseolus vulgaris
+>1
+S000146818|Bacteria;"Proteobacteria";Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas tremae
+>1
+S000842370|Bacteria;"Proteobacteria";Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Moraxella;Moraxella bovoculi
+>1
+S000903067|Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae1;Clostridiumsensustricto;Clostridium amylolyticum
+>1
+S000009305|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Streptomycineae;Streptomycetaceae;Streptomyces;Streptomyces melanosporofaciens
+>1
+S000014607|Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae1;Clostridiumsensustricto;Clostridium beijerinckii
+>1
+S000438762|Bacteria;"Proteobacteria";Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Rhizobium;Rhizobium tropici
+>1
+S000394065|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Nocardiaceae;Rhodococcus;Rhodococcus corynebacterioides
+>2
+S000995118|Bacteria;Firmicutes;Clostridia;Thermoanaerobacterales;Thermoanaerobacteraceae;Thermoanaerobacter;Thermoanaerobacter pseudethanolicus
+S002290369|Bacteria;Firmicutes;Clostridia;Thermoanaerobacterales;Thermoanaerobacteraceae;Thermoanaerobacter;Thermoanaerobacter pseudethanolicus
+>1
+S000126594|Bacteria;"Proteobacteria";Gammaproteobacteria;Oceanospirillales;Halomonadaceae;Salinicola;Salinicola halophilus
+>1
+S000364319|Bacteria;"Proteobacteria";Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Rhodobacter;Rhodobacter sphaeroides
+>1
+S002290155|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Pseudonocardineae;Pseudonocardiaceae;Saccharopolyspora;Saccharopolyspora erythraea
+>2
+S001020454|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Morus indica
+S001020451|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Morus indica
+>1
+S001019470|Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae2;Virgibacillus;Virgibacillus salarius
+>1
+S000016950|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Pseudonocardineae;Pseudonocardiaceae;Pseudonocardia;Pseudonocardia alni
+>1
+S000462238|Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Acetanaerobacterium;Acetanaerobacterium elongatum
+>1
+S000388241|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Micromonosporineae;Micromonosporaceae;Catellatospora;Catellatospora citrea
+>1
+S000414118|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Bifidobacteriales;Bifidobacteriaceae;Bifidobacterium;Bifidobacterium animalis
+>1
+S001241592|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Propionibacterineae;Nocardioidaceae;Nocardioides;Nocardioides terrae
+>1
+S000356245|Bacteria;"Tenericutes";Mollicutes;Entomoplasmatales;Spiroplasmataceae;Spiroplasma;Spiroplasma montanense
+>1
+S000393846|Bacteria;"Deinococcus-Thermus";Deinococci;Thermales;Thermaceae;Meiothermus;Meiothermus taiwanensis
+>1
+S000942113|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Micrococcineae;Microbacteriaceae;Leifsonia;Leifsonia naganoensis
+>1
+S000434393|Bacteria;"Proteobacteria";Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Paracoccus;Paracoccus versutus
+>1
+S000015956|Bacteria;"Proteobacteria";Alphaproteobacteria;Rhodospirillales;Acetobacteraceae;Acetobacter;Acetobacter aceti
+>1
+S000428010|Bacteria;"Chlamydiae";Chlamydiae;Chlamydiales;Waddliaceae;Waddlia;Waddlia chondrophila
+>1
+S000145522|Bacteria;"Proteobacteria";Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas cannabina
+>2
+S000495753|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Anthoceros formosae
+S000495756|Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;Anthoceros formosae
+>1
+S000620072|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Streptosporangineae;Streptosporangiaceae;Herbidospora;Herbidospora yilanensis
+>1
+S000001328|Bacteria;Firmicutes;Bacilli;Bacillales;Staphylococcaceae;Macrococcus;Macrococcus equipercicus
+>1
+S000005084|Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae1;Clostridiumsensustricto;Clostridium cellulovorans
+>1
+S000979207|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Corynebacteriaceae;Corynebacterium;Corynebacterium sputi
+>1
+S000633544|Bacteria;"Actinobacteria";Actinobacteria;Actinobacteridae;Actinomycetales;Streptosporangineae;Thermomonosporaceae;Actinomadura;Actinomadura hallensis
+>1
+S000005898|Bacteria;"Proteobacteria";Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas azotoformans
+>2
+S000356248|Bacteria;"Tenericutes";Mollicutes;Entomoplasmatales;Spiroplasmataceae;Spiroplasma;Spiroplasma turonicum
+S000356244|Bacteria;"Tenericutes";Mollicutes;Entomoplasmatales;Spiroplasmataceae;Spiroplasma;Spiroplasma litorale
