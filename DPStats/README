@@ -1,0 +1,28 @@
+Melita Pipeline: DPStats
+Usage: java DPStats <inputfile> <outputdirectory>
+
+Description: A pipeline that accepts a sequence database (RDP),
+a set of forward and reverse degenerate primers, and their identifiers
+and outputs statistics regarding taxon-specific PCR amplification
+
+Inputfile contains keyword-value pairs on separate lines.  Required keywords:
+sequencefile: Sequence database (RDP)
+primerfile: List of forward and reverse primers, and their idnetifiers
+
+For each forward/reverse primer pair, outputs the following files prefixed by their identifier
+ in the <outputdirectory>:
+*amplSeqID.txt: Sequences/taxa amplified by PCR
+*NE.txt: NE=Nonexistent sequences/taxa, in other words could not be amplified
+*ND.txt: ND=Nondistinct sequences/taxa that were amplified
+*AmpliconMap*: Matrix with rows corresponding to taxa and columns to the primer.  Entry (i, j)
+is the amount of sequences corresponding to taxa i amplified by primer k
+*New*: Number of new taxa amplified
+
+Additionally, the following files are produced in the root directory, suffixed by database
+and an identifier for the primer set.
+
+amplStats*: More descriptive statistics (degree, longest common subsequence, temperature and GC% ranges)
+that include those specific to the forward and reverse primers
+amplStatsNoFR*: More summative statistics for the primer pair in general.
+combine2Ampl*: Results from using all pairs of primers, including amount of overlap, phyla, genera,
+and species amplified.

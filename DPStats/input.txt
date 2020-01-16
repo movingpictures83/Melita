@@ -1,0 +1,2 @@
+sequencefile	DPStats/rdp_download_9175seqs.gen
+primerfile	DPStats/SelectPP.txt
