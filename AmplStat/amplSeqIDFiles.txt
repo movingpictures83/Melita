@@ -1,0 +1,9 @@
+RDPF1041_R1367_amplSeqID.txt
+RDPF1082_R1367_amplSeqID.txt
+RDPF330_R773_amplSeqID.txt
+RDPF331_R899_amplSeqID.txt
+RDPF510_R1042_amplSeqID.txt
+RDPF772_R1053_amplSeqID.txt
+RDPF774_R1367_amplSeqID.txt
+RDP_SDF-1_R328_amplSeqID.txt
+RDP_SDF-1_R508_amplSeqID.txt

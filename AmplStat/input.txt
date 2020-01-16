@@ -1,0 +1,7 @@
+target	AmplStat/ErbGenusList.txt
+missing	AmplStat/missGenusFiles.txt
+existing	AmplStat/amplSeqIDFiles.txt
+inputfolder	AmplStat/amplSeq
+outputmissing	AmplStat/missGenus.txt
+inputcounts	AmplStat/amplSeqIDList.txt
+outputcounts	AmplStat/SpeciePerGenusV35_V58.txt

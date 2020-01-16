@@ -1,0 +1,23 @@
+Melita Pipeline: AmplStat
+Usage: java AmplStatMain <inputfile>
+
+Description: A pipeline that takes a set of target genera and outputs statistics on these
+genera over a set of samples.  These statistics include:
+
+Which genera are missing
+Which genera are present
+Which species are present for each genera, and in what quantities
+
+<inputfile> is a tab-delimited textfile of keyword-value pairs.  Keywords (all required)
+include:
+
+KEYWORD		DESCRIPTION
+target		File of target genera
+missing		Files of missing genera
+existing	Files of existing genera, and their sequence identifiers
+inputfolder	Folder that includes existing and missing genera files
+outputmissing	File that includes the target genera that were not present
+inputcounts	Files to use when determining counts of each species for target genera
+outputcounts	Counts of each species for target genera over the samples in inputcounts
+
+
