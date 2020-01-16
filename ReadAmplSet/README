@@ -1,0 +1,6 @@
+Melita Pipeline: ReadAmplSet
+Usage: java ReadAmplSet <inputfile> <outputfile>
+
+Description: A pipeline that reads a set of sequences and outputs the
+unique reads.
+
