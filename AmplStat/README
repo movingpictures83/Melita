@@ -1,5 +1,5 @@
 Melita Pipeline: AmplStat
-Usage: java AmplStatMain <inputfile>
+Usage: ./runMelita.sh AmplStatMain <inputfile>
 
 Description: A pipeline that takes a set of target genera and outputs statistics on these
 genera over a set of samples.  These statistics include:

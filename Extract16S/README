@@ -1,5 +1,5 @@
 Melita Pipeline: Extract16S
-Usage: java Extract16S <inputfile> <outputfile>
+Usage: ./runMelita.sh Extract16S <inputfile> <outputfile>
 
 Description: A pipeline that takes extracts the 16S region from a set
 of input sequences.

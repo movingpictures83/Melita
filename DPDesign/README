@@ -1,5 +1,5 @@
 Melita Pipeline: DPDesign
-Usage: java DPDesign <inputfile>
+Usage: ./runMelita.sh DPDesign <inputfile>
 
 Description: A pipeline that takes as input a database of sequences from RDP. 
 

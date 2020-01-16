@@ -1,5 +1,5 @@
 Melita Pipeline: DBStat
-Usage: java DBStat <inputfile>
+Usage: ./runMelita.sh DBStat <inputfile>
 
 Description: A pipeline that outputs statistics on database files.
 At the moment it takes one RDP file, one Silva file, and one HMDP file.

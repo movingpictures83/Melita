@@ -1,5 +1,5 @@
 Melita Pipeline: DPStats
-Usage: java DPStats <inputfile> <outputdirectory>
+Usage: ./runMelita.sh DPStats <inputfile> <outputdirectory>
 
 Description: A pipeline that accepts a sequence database (RDP),
 a set of forward and reverse degenerate primers, and their identifiers

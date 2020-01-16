@@ -1,5 +1,5 @@
 Melita Pipeline: DegPrimerTree
-Usage: java DegPrimerTree <inputfile>
+Usage: ./runMelita.sh DegPrimerTree <inputfile>
 
 Description: A pipeline that takes as input a database of sequences
 and their corresponding taxa. 
