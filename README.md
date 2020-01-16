@@ -1,16 +1,16 @@
 # Melita
 
-Suite of tools for degenerate primer development (Jaric et al, 2013).
+Suite of tools for degenerate primer development (Jaric et al, 2013).<br>
 
-This suite of tools includes eight analysis pipelines:
-AmplStat: Produces statistics on a sequence database, specifically genera that are missing/present, their counts, and number of species
-DBStat: Outputs more general statistics, including unique genera/species, unique sequences, and distinguishing taxa
-DegPrimerTree: Produces a set of degenerate primers, using the taxon-specific algorithm of (Jaric et al, 2013)
-DPDesign: Produces a set of possible forward and reverse primers for an input set of sequences
-DPStats: Produces a list of taxa/sequences that would be successfully amplified during PCR given a forward and reverse primer pair
-Extract16S: Extract the 16S region from an input sequence set
-ReadAmplSet: Outputs unique reads
-Test: Tests some core features of Melita
+This suite of tools includes eight analysis pipelines:<br>
+AmplStat: Produces statistics on a sequence database, specifically genera that are missing/present, their counts, and number of species<br>
+DBStat: Outputs more general statistics, including unique genera/species, unique sequences, and distinguishing taxa<br>
+DegPrimerTree: Produces a set of degenerate primers, using the taxon-specific algorithm of (Jaric et al, 2013)<br>
+DPDesign: Produces a set of possible forward and reverse primers for an input set of sequences<br>
+DPStats: Produces a list of taxa/sequences that would be successfully amplified during PCR given a forward and reverse primer pair<br>
+Extract16S: Extract the 16S region from an input sequence set<br>
+ReadAmplSet: Outputs unique reads<br>
+Test: Tests some core features of Melita<br>
 
 Melita is under open-source MIT License and any professional work that uses Melita should cite:
 
