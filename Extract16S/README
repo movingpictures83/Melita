@@ -1,0 +1,12 @@
+Melita Pipeline: Extract16S
+Usage: java Extract16S <inputfile> <outputfile>
+
+Description: A pipeline that takes extracts the 16S region from a set
+of input sequences.
+
+<inputfile> contains a list of files (one per line) containing sequence
+and taxon information
+
+<outputfile> will then contain information about each sequence, and a copy
+of the 16S region.  
+
