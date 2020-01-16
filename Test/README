@@ -1,0 +1,5 @@
+Melita Pipeline: Test
+Usage: ./runMelita.sh Test
+
+Description: A simple pipeline that tests some core features of Melita.
+
