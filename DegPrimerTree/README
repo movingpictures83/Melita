@@ -1,0 +1,13 @@
+Melita Pipeline: DegPrimerTree
+Usage: java DegPrimerTree <inputfile>
+
+Description: A pipeline that takes as input a database of sequences
+and their corresponding taxa. 
+
+It will then output a set of taxon-specific degenerate primers 
+using the algorithm of (Jaric et al., 2013).  
+
+Part of this algorithm involves a phylogenetic clustering of the sequences,
+for which information is displayed first.  What will follow is an iteration
+through the resulting tree, producing forward and reverse degenerate primers
+that meet a specified set of criteria for each node in the three.
