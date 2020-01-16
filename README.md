@@ -16,6 +16,6 @@ Melita is under open-source MIT License and any professional work that uses Meli
 
 M. Jaric, J. Segal, E. Silva-Herzong, L. Schneper, K. Mathee and G. Narasimhan. Better Primer Design for Metagenomics Applications By Increasing Taxonomic Distinguishability.  BMC Proceedings 8(S7):S4, 2013.
 
-All current questions should be directed to lead developer Trevor Cickovski (<i>tcickovs@fiu.edu</i>).
+All current questions should be directed to lead developer Trevor Cickovski (tcickovs@fiu.edu).
 
 <i>Melita is released in memory of Melita Jaric.</i>
